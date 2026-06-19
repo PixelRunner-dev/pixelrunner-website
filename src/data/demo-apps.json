@@ -1,0 +1,1068 @@
+[
+  {
+    "name": "Buienradar",
+    "summary": "Buienradar (BE/NL)",
+    "desc": "Shows the rain radar of Belgium or The Netherlands.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "weather"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "buienradar",
+    "fileName": "buienradar"
+  },
+  {
+    "name": "Wrigley Clock",
+    "summary": "Wrigley Scoreboard Clock",
+    "desc": "Clock that shows the current time as seen on the old Wrigley Field scoreboard.",
+    "author": "Garrett W",
+    "tags": [
+      "clock"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "wrigleyclock",
+    "fileName": "wrigley_clock"
+  },
+  {
+    "name": "Shopify Sales",
+    "summary": "Display sales totals",
+    "desc": "Showcase your daily, weekly, monthly, or annual sales totals.",
+    "author": "Shopify",
+    "tags": [
+      "finance",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "salestrends",
+    "fileName": "sales_trends"
+  },
+  {
+    "name": "New Year's CntDwn",
+    "summary": "Countdown to New Years",
+    "desc": "Display the days remaining till New Years with Fireworks.",
+    "author": "dereklarmstrong",
+    "tags": [
+      "calendar",
+      "fireworks"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "newyearscountdown",
+    "fileName": "new_years_countdown"
+  },
+  {
+    "name": "Jacket",
+    "summary": "Do I need a jacket",
+    "desc": "Shows if you need a jacket. Uses OpenWeather API.",
+    "author": "noahpodgurski",
+    "tags": [
+      "tracking",
+      "weather"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "jacket",
+    "fileName": "jacket"
+  },
+  {
+    "name": "Please Stand By",
+    "summary": "Displays Please Stand By",
+    "desc": "Displays Please Stand By message.",
+    "author": "Ethan Fuerst (@ethanfuerst)",
+    "tags": [
+      "art",
+      "entertainment"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "pleasestandby",
+    "fileName": "please_stand_by"
+  },
+  {
+    "name": "Hex Color Clock",
+    "summary": "Shows a hex color clock",
+    "desc": "This app shows a clock and a hex number. The background will change colors to match the hex code shown.",
+    "author": "gabe565",
+    "tags": [
+      "art",
+      "clock",
+      "devs"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "hexcolorclock",
+    "fileName": "hex_color_clock"
+  },
+  {
+    "name": "Things Wife Says",
+    "summary": "Show phrases",
+    "desc": "Enter phrases your wife says and app will cycle through them.",
+    "author": "vipulchhajer",
+    "tags": [
+      "customization",
+      "entertainment",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "thingswifesays",
+    "fileName": "things_wife_says"
+  },
+  {
+    "name": "Analog Time",
+    "summary": "Show time analog style",
+    "desc": "Shows the time on an analog style clock. Enter custom colors in #rgb, #rrggbb, #rgba, or #rrggbbaa format.",
+    "author": "rs7q5",
+    "tags": [
+      "clock"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "analogtime",
+    "fileName": "analog_time"
+  },
+  {
+    "name": "SpotTheStation",
+    "summary": "Next ISS visit overhead",
+    "desc": "Goto N2yo.com and create an API Key to display the next ISS pass overhead for your location.",
+    "author": "Robert Ison",
+    "tags": [
+      "astronomy",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "spotthestation",
+    "fileName": "spotthestation"
+  },
+  {
+    "name": "Peanuts Pictures",
+    "summary": "Peanuts Pixel Art",
+    "desc": "Shows a specific or random pixel art piece of characters from the Peanuts comics series.",
+    "author": "michaelalbinson",
+    "tags": [
+      "art"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "peanutspictures",
+    "fileName": "peanuts_pictures"
+  },
+  {
+    "name": "Powerwall",
+    "summary": "Show Tesla Powerwall state",
+    "desc": "Show Tesla Powerwall battery percentage state.",
+    "author": "tabrindle",
+    "tags": [
+      "smart-home",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "powerwall",
+    "fileName": "powerwall"
+  },
+  {
+    "name": "US Yield Curve",
+    "summary": "Plots the US yield curve",
+    "desc": "Track changes to the yield curve over different US Treasury maturities.",
+    "author": "c00p",
+    "tags": [
+      "finance",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "usyieldcurve",
+    "fileName": "us_yield_curve"
+  },
+  {
+    "name": "Daily Horoscope",
+    "summary": "See your daily horoscope",
+    "desc": "Displays the daily horoscope for a specific sign from USA Today.",
+    "author": "frame-shift",
+    "tags": [
+      "entertainment"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "dailyhoroscope",
+    "fileName": "daily_horoscope"
+  },
+  {
+    "name": "Seinfeld Quotes",
+    "summary": "Displays Seinfeld Quotes",
+    "desc": "Displays a random quote from the hit sitcom Seinfeld.",
+    "author": "ndlybarger",
+    "tags": [
+      "quotes"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "seinfeldquotes",
+    "fileName": "seinfeldquotes"
+  },
+  {
+    "name": "Tagesschau News",
+    "summary": "News of Tagesschau",
+    "desc": "Fetches and displays only the headline of the german Tagesschau.",
+    "author": "dev-manuel",
+    "tags": [
+      "news"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "tagesschau_news",
+    "fileName": "tagesschau_news"
+  },
+  {
+    "name": "F1 Results",
+    "summary": "Qualifying and race results",
+    "desc": "Shows F1 qualifying or race results for the current round. Otherwise the app shows date & time of next race.",
+    "author": "M0ntyP",
+    "tags": [
+      "sport"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "f1results",
+    "fileName": "f1_results"
+  },
+  {
+    "name": "Oura Ring",
+    "summary": "View your Oura Ring scores",
+    "desc": "Displays the three scores from your Oura Ring along with a historical chart over the past seven days.",
+    "author": "Aiden Vigue",
+    "tags": [
+      "tracking",
+      "health"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "ouraring",
+    "fileName": "ouraring"
+  },
+  {
+    "name": "Plex Showtime",
+    "summary": "Explore your Plex library",
+    "desc": "View recently added or played media, or your entire media library.",
+    "author": "MichaelYagi",
+    "tags": [
+      "entertainment",
+      "smart-home"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "plexshowtime",
+    "fileName": "plex_showtime"
+  },
+  {
+    "name": "Year Progress",
+    "summary": "Year progress bar",
+    "desc": "The only progress bar you wish was slower. The option for milestone days will only display the app every 3-4 days when we hit 1%, 2%, etc.",
+    "author": "chrisbateman",
+    "tags": [
+      "calendar",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "yearprogress",
+    "fileName": "year_progress"
+  },
+  {
+    "name": "Hacker News",
+    "summary": "Hacker News Top Stories",
+    "desc": "See recent top stories submitted to Hacker News with info about upvotes and number of comments.",
+    "author": "Nick Comer",
+    "tags": [
+      "news",
+      "social"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "hackernews",
+    "fileName": "hacker_news"
+  },
+  {
+    "name": "Subway Now",
+    "summary": "Subway Now - NYC Subway",
+    "desc": "More accurate realtime New York City Subway arrival times for a selected station, as seen on Subway Now app. Shows actual train destinations including overnight and weekend service changes.",
+    "author": "Sunny Ng",
+    "tags": [
+      "transit"
+    ],
+    "isOfficialApplet": false,
+    "fileName": "goodservice",
+    "schema": "{\"version\":\"1\",\"schema\":[{\"type\":\"dropdown\",\"id\":\"stop_id\",\"name\":\"Station\",\"description\":\"Station to show subway departures\",\"icon\":\"trainSubway\",\"default\":\"M16\",\"options\":[{\"display\":\"1 Av (L)\",\"text\":\"1 Av (L)\",\"value\":\"L06\"},{\"display\":\"2 Av (F)\",\"text\":\"2 Av (F)\",\"value\":\"F14\"},{\"display\":\"3 Av (L)\",\"text\":\"3 Av (L)\",\"value\":\"L05\"},{\"display\":\"3 Av-138 St (6, 6X)\",\"text\":\"3 Av-138 St (6, 6X)\",\"value\":\"619\"},{\"display\":\"3 Av-149 St (2, 5)\",\"text\":\"3 Av-149 St (2, 5)\",\"value\":\"221\"},{\"display\":\"4 Av (F, G)\",\"text\":\"4 Av (F, G)\",\"value\":\"F23\"},{\"display\":\"5 Av (7, 7X)\",\"text\":\"5 Av (7, 7X)\",\"value\":\"724\"},{\"display\":\"5 Av/53 St (E, F)\",\"text\":\"5 Av/53 St (E, F)\",\"value\":\"F12\"},{\"display\":\"5 Av/59 St (N, R, W)\",\"text\":\"5 Av/59 St (N, R, W)\",\"value\":\"R13\"},{\"display\":\"6 Av (L)\",\"text\":\"6 Av (L)\",\"value\":\"L02\"},{\"display\":\"7 Av - 9 St (F, G)\",\"text\":\"7 Av - 9 St (F, G)\",\"value\":\"F24\"},{\"display\":\"7 Av - 53 St (B, D, E)\",\"text\":\"7 Av - 53 St (B, D, E)\",\"value\":\"D14\"},{\"display\":\"7 Av - Flatbush Av (B, Q)\",\"text\":\"7 Av - Flatbush Av (B, Q)\",\"value\":\"D25\"},{\"display\":\"8 Av - 14 St (L)\",\"text\":\"8 Av - 14 St (L)\",\"value\":\"L01\"},{\"display\":\"8 Av - 62 St (N)\",\"text\":\"8 Av - 62 St (N)\",\"value\":\"N02\"},{\"display\":\"8 St-NYU (R, W)\",\"text\":\"8 St-NYU (R, W)\",\"value\":\"R21\"},{\"display\":\"9 Av (D, W)\",\"text\":\"9 Av (D, W)\",\"value\":\"B12\"},{\"display\":\"9 St (R, W)\",\"text\":\"9 St (R, W)\",\"value\":\"R33\"},{\"display\":\"14 St-Union Sq - Broadway Line (N, Q, R, W)\",\"text\":\"14 St-Union Sq - Broadway Line (N, Q, R, W)\",\"value\":\"R20\"},{\"display\":\"14 St-Union Sq - Canarsie Line (L)\",\"text\":\"14 St-Union Sq - Canarsie Line (L)\",\"value\":\"L03\"},{\"display\":\"14 St-Union Sq - Lexington Av Line (4, 5, 6, 6X)\",\"text\":\"14 St-Union Sq - Lexington Av Line (4, 5, 6, 6X)\",\"value\":\"635\"},{\"display\":\"14 St - 6 Av (F, M)\",\"text\":\"14 St - 6 Av (F, M)\",\"value\":\"D19\"},{\"display\":\"14 St - 7 Av (1, 2, 3)\",\"text\":\"14 St - 7 Av (1, 2, 3)\",\"value\":\"132\"},{\"display\":\"14 St - 8 Av (A, C, E)\",\"text\":\"14 St - 8 Av (A, C, E)\",\"value\":\"A31\"},{\"display\":\"15 St-Prospect Park (F, G)\",\"text\":\"15 St-Prospect Park (F, G)\",\"value\":\"F25\"},{\"display\":\"18 Av - 64 St (N)\",\"text\":\"18 Av - 64 St (N)\",\"value\":\"N05\"},{\"display\":\"18 Av - McDonald Av (F)\",\"text\":\"18 Av - McDonald Av (F)\",\"value\":\"F30\"},{\"display\":\"18 Av - New Utrecht Av (D)\",\"text\":\"18 Av - New Utrecht Av (D)\",\"value\":\"B19\"},{\"display\":\"18 St (1)\",\"text\":\"18 St (1)\",\"value\":\"131\"},{\"display\":\"20 Av - 64 St (N)\",\"text\":\"20 Av - 64 St (N)\",\"value\":\"N06\"},{\"display\":\"20 Av - New Utrecht Av (D)\",\"text\":\"20 Av - New Utrecht Av (D)\",\"value\":\"B20\"},{\"display\":\"21 St (G)\",\"text\":\"21 St (G)\",\"value\":\"G24\"},{\"display\":\"21 St-Queensbridge (M)\",\"text\":\"21 St-Queensbridge (M)\",\"value\":\"B04\"},{\"display\":\"23 St-Baruch College - Park Av S (6, 6X)\",\"text\":\"23 St-Baruch College - Park Av S (6, 6X)\",\"value\":\"634\"},{\"display\":\"23 St - 6 Av (F, M)\",\"text\":\"23 St - 6 Av (F, M)\",\"value\":\"D18\"},{\"display\":\"23 St - 7 Av (1)\",\"text\":\"23 St - 7 Av (1)\",\"value\":\"130\"},{\"display\":\"23 St - 8 Av (C, E)\",\"text\":\"23 St - 8 Av (C, E)\",\"value\":\"A30\"},{\"display\":\"23 St - Broadway (R, W)\",\"text\":\"23 St - Broadway (R, W)\",\"value\":\"R19\"},{\"display\":\"25 Av (D)\",\"text\":\"25 Av (D)\",\"value\":\"B22\"},{\"display\":\"25 St (R, W)\",\"text\":\"25 St (R, W)\",\"value\":\"R35\"},{\"display\":\"28 St - 7 Av (1)\",\"text\":\"28 St - 7 Av (1)\",\"value\":\"129\"},{\"display\":\"28 St - Broadway (R, W)\",\"text\":\"28 St - Broadway (R, W)\",\"value\":\"R18\"},{\"display\":\"28 St - Park Av S (6, 6X)\",\"text\":\"28 St - Park Av S (6, 6X)\",\"value\":\"633\"},{\"display\":\"30 Av (N, W)\",\"text\":\"30 Av (N, W)\",\"value\":\"R04\"},{\"display\":\"33 St-Rawson St (7, 7X)\",\"text\":\"33 St-Rawson St (7, 7X)\",\"value\":\"716\"},{\"display\":\"33 St - Park Av S (6, 6X)\",\"text\":\"33 St - Park Av S (6, 6X)\",\"value\":\"632\"},{\"display\":\"34 St-Herald Sq - 6 Av Line (B, D, F, M)\",\"text\":\"34 St-Herald Sq - 6 Av Line (B, D, F, M)\",\"value\":\"D17\"},{\"display\":\"34 St-Herald Sq - Broadway Line (N, Q, R, W)\",\"text\":\"34 St-Herald Sq - Broadway Line (N, Q, R, W)\",\"value\":\"R17\"},{\"display\":\"34 St-Hudson Yards (7, 7X)\",\"text\":\"34 St-Hudson Yards (7, 7X)\",\"value\":\"726\"},{\"display\":\"34 St-Penn Station - 7 Av (1, 2, 3)\",\"text\":\"34 St-Penn Station - 7 Av (1, 2, 3)\",\"value\":\"128\"},{\"display\":\"34 St-Penn Station - 8 Av (A, C, E)\",\"text\":\"34 St-Penn Station - 8 Av (A, C, E)\",\"value\":\"A28\"},{\"display\":\"36 Av (N, W)\",\"text\":\"36 Av (N, W)\",\"value\":\"R06\"},{\"display\":\"36 St - 4 Av (D, N, R, W)\",\"text\":\"36 St - 4 Av (D, N, R, W)\",\"value\":\"R36\"},{\"display\":\"36 St - Northern Blvd (M, R)\",\"text\":\"36 St - Northern Blvd (M, R)\",\"value\":\"G20\"},{\"display\":\"39 Av (N, W)\",\"text\":\"39 Av (N, W)\",\"value\":\"R08\"},{\"display\":\"40 St-Lowery St (7, 7X)\",\"text\":\"40 St-Lowery St (7, 7X)\",\"value\":\"715\"},{\"display\":\"42 St-Bryant Pk (B, D, F, M)\",\"text\":\"42 St-Bryant Pk (B, D, F, M)\",\"value\":\"D16\"},{\"display\":\"42 St-Port Authority Bus Terminal (A, C, E)\",\"text\":\"42 St-Port Authority Bus Terminal (A, C, E)\",\"value\":\"A27\"},{\"display\":\"45 St (R)\",\"text\":\"45 St (R)\",\"value\":\"R39\"},{\"display\":\"46 St-Bliss St (7, 7X)\",\"text\":\"46 St-Bliss St (7, 7X)\",\"value\":\"714\"},{\"display\":\"46 St - Broadway (M, R)\",\"text\":\"46 St - Broadway (M, R)\",\"value\":\"G18\"},{\"display\":\"47-50 Sts-Rockefeller Ctr (B, D, F, M)\",\"text\":\"47-50 Sts-Rockefeller Ctr (B, D, F, M)\",\"value\":\"D15\"},{\"display\":\"49 St (N, R, W)\",\"text\":\"49 St (N, R, W)\",\"value\":\"R15\"},{\"display\":\"50 St - 8 Av (C, E)\",\"text\":\"50 St - 8 Av (C, E)\",\"value\":\"A25\"},{\"display\":\"50 St - Broadway (1)\",\"text\":\"50 St - Broadway (1)\",\"value\":\"126\"},{\"display\":\"50 St - New Utrecht Av (D)\",\"text\":\"50 St - New Utrecht Av (D)\",\"value\":\"B14\"},{\"display\":\"51 St (6, 6X)\",\"text\":\"51 St (6, 6X)\",\"value\":\"630\"},{\"display\":\"52 St (7)\",\"text\":\"52 St (7)\",\"value\":\"713\"},{\"display\":\"53 St (R)\",\"text\":\"53 St (R)\",\"value\":\"R40\"},{\"display\":\"55 St (D)\",\"text\":\"55 St (D)\",\"value\":\"B15\"},{\"display\":\"57 St (M)\",\"text\":\"57 St (M)\",\"value\":\"B10\"},{\"display\":\"57 St-7 Av (N, Q, R, W)\",\"text\":\"57 St-7 Av (N, Q, R, W)\",\"value\":\"R14\"},{\"display\":\"59 St-Columbus Circle - 8 Av Line (A, B, C, D)\",\"text\":\"59 St-Columbus Circle - 8 Av Line (A, B, C, D)\",\"value\":\"A24\"},{\"display\":\"59 St-Columbus Circle - Broadway–7 Av Line (1)\",\"text\":\"59 St-Columbus Circle - Broadway–7 Av Line (1)\",\"value\":\"125\"},{\"display\":\"59 St - 4 Av (N, R)\",\"text\":\"59 St - 4 Av (N, R)\",\"value\":\"R41\"},{\"display\":\"59 St - Lexington Av (4, 5, 6, 6X)\",\"text\":\"59 St - Lexington Av (4, 5, 6, 6X)\",\"value\":\"629\"},{\"display\":\"62 St (D, W)\",\"text\":\"62 St (D, W)\",\"value\":\"B16\"},{\"display\":\"63 Dr-Rego Park (M, R)\",\"text\":\"63 Dr-Rego Park (M, R)\",\"value\":\"G10\"},{\"display\":\"65 St (M, R)\",\"text\":\"65 St (M, R)\",\"value\":\"G15\"},{\"display\":\"66 St-Lincoln Center (1)\",\"text\":\"66 St-Lincoln Center (1)\",\"value\":\"124\"},{\"display\":\"67 Av (M, R)\",\"text\":\"67 Av (M, R)\",\"value\":\"G09\"},{\"display\":\"68 St-Hunter College (6, 6X)\",\"text\":\"68 St-Hunter College (6, 6X)\",\"value\":\"628\"},{\"display\":\"69 St (7)\",\"text\":\"69 St (7)\",\"value\":\"711\"},{\"display\":\"71 St (D)\",\"text\":\"71 St (D)\",\"value\":\"B17\"},{\"display\":\"72 St - 2 Av (Q)\",\"text\":\"72 St - 2 Av (Q)\",\"value\":\"Q03\"},{\"display\":\"72 St - Broadway (1, 2, 3)\",\"text\":\"72 St - Broadway (1, 2, 3)\",\"value\":\"123\"},{\"display\":\"72 St - Central Park W (B, C)\",\"text\":\"72 St - Central Park W (B, C)\",\"value\":\"A22\"},{\"display\":\"74 St-Broadway (7)\",\"text\":\"74 St-Broadway (7)\",\"value\":\"710\"},{\"display\":\"75 Av (F)\",\"text\":\"75 Av (F)\",\"value\":\"F07\"},{\"display\":\"75 St-Elderts Ln (J)\",\"text\":\"75 St-Elderts Ln (J)\",\"value\":\"J17\"},{\"display\":\"77 St - 4 Av (R)\",\"text\":\"77 St - 4 Av (R)\",\"value\":\"R43\"},{\"display\":\"77 St - Lexington Av (6, 6X)\",\"text\":\"77 St - Lexington Av (6, 6X)\",\"value\":\"627\"},{\"display\":\"79 St - Broadway (1)\",\"text\":\"79 St - Broadway (1)\",\"value\":\"122\"},{\"display\":\"79 St - New Utrecht Av (D)\",\"text\":\"79 St - New Utrecht Av (D)\",\"value\":\"B18\"},{\"display\":\"80 St (A)\",\"text\":\"80 St (A)\",\"value\":\"A59\"},{\"display\":\"81 St-Museum of Natural History (B, C)\",\"text\":\"81 St-Museum of Natural History (B, C)\",\"value\":\"A21\"},{\"display\":\"82 St-Jackson Hts (7)\",\"text\":\"82 St-Jackson Hts (7)\",\"value\":\"709\"},{\"display\":\"85 St-Forest Pkwy (J)\",\"text\":\"85 St-Forest Pkwy (J)\",\"value\":\"J16\"},{\"display\":\"86 St - 2 Av (Q)\",\"text\":\"86 St - 2 Av (Q)\",\"value\":\"Q04\"},{\"display\":\"86 St - 4 Av (R)\",\"text\":\"86 St - 4 Av (R)\",\"value\":\"R44\"},{\"display\":\"86 St - Broadway (1)\",\"text\":\"86 St - Broadway (1)\",\"value\":\"121\"},{\"display\":\"86 St - Central Park W (B, C)\",\"text\":\"86 St - Central Park W (B, C)\",\"value\":\"A20\"},{\"display\":\"86 St - Lexington Av (4, 5, 6, 6X)\",\"text\":\"86 St - Lexington Av (4, 5, 6, 6X)\",\"value\":\"626\"},{\"display\":\"86 St - W 7 St (N)\",\"text\":\"86 St - W 7 St (N)\",\"value\":\"N10\"},{\"display\":\"88 St (A)\",\"text\":\"88 St (A)\",\"value\":\"A60\"},{\"display\":\"90 St-Elmhurst Av (7)\",\"text\":\"90 St-Elmhurst Av (7)\",\"value\":\"708\"},{\"display\":\"96 St - 2 Av (Q)\",\"text\":\"96 St - 2 Av (Q)\",\"value\":\"Q05\"},{\"display\":\"96 St - Broadway (1, 2, 3)\",\"text\":\"96 St - Broadway (1, 2, 3)\",\"value\":\"120\"},{\"display\":\"96 St - Central Park W (B, C)\",\"text\":\"96 St - Central Park W (B, C)\",\"value\":\"A19\"},{\"display\":\"96 St - Lexington Av (6, 6X)\",\"text\":\"96 St - Lexington Av (6, 6X)\",\"value\":\"625\"},{\"display\":\"103 St-Corona Plaza (7)\",\"text\":\"103 St-Corona Plaza (7)\",\"value\":\"706\"},{\"display\":\"103 St - Broadway (1)\",\"text\":\"103 St - Broadway (1)\",\"value\":\"119\"},{\"display\":\"103 St - Central Park W (B, C)\",\"text\":\"103 St - Central Park W (B, C)\",\"value\":\"A18\"},{\"display\":\"103 St - Lexington Av (6, 6X)\",\"text\":\"103 St - Lexington Av (6, 6X)\",\"value\":\"624\"},{\"display\":\"104 St - Jamaica Av (J)\",\"text\":\"104 St - Jamaica Av (J)\",\"value\":\"J14\"},{\"display\":\"104 St - Liberty Av (A)\",\"text\":\"104 St - Liberty Av (A)\",\"value\":\"A63\"},{\"display\":\"110 St (6, 6X)\",\"text\":\"110 St (6, 6X)\",\"value\":\"623\"},{\"display\":\"110 St-Malcolm X Plaza (2, 3)\",\"text\":\"110 St-Malcolm X Plaza (2, 3)\",\"value\":\"227\"},{\"display\":\"111 St - Jamaica Av (J)\",\"text\":\"111 St - Jamaica Av (J)\",\"value\":\"J13\"},{\"display\":\"111 St - Liberty Av (A)\",\"text\":\"111 St - Liberty Av (A)\",\"value\":\"A64\"},{\"display\":\"111 St - Roosevelt Av (7)\",\"text\":\"111 St - Roosevelt Av (7)\",\"value\":\"705\"},{\"display\":\"116 St-Columbia University (1)\",\"text\":\"116 St-Columbia University (1)\",\"value\":\"117\"},{\"display\":\"116 St - Central Park W (B, C)\",\"text\":\"116 St - Central Park W (B, C)\",\"value\":\"A16\"},{\"display\":\"116 St - Lenox Av (2, 3)\",\"text\":\"116 St - Lenox Av (2, 3)\",\"value\":\"226\"},{\"display\":\"116 St - Lexington Av (6, 6X)\",\"text\":\"116 St - Lexington Av (6, 6X)\",\"value\":\"622\"},{\"display\":\"121 St (J)\",\"text\":\"121 St (J)\",\"value\":\"J12\"},{\"display\":\"125 St - Broadway (1)\",\"text\":\"125 St - Broadway (1)\",\"value\":\"116\"},{\"display\":\"125 St - Lenox Av (2, 3)\",\"text\":\"125 St - Lenox Av (2, 3)\",\"value\":\"225\"},{\"display\":\"125 St - Lexington Av (4, 5, 6, 6X)\",\"text\":\"125 St - Lexington Av (4, 5, 6, 6X)\",\"value\":\"621\"},{\"display\":\"125 St - St Nicholas Av (A, B, C, D)\",\"text\":\"125 St - St Nicholas Av (A, B, C, D)\",\"value\":\"A15\"},{\"display\":\"135 St - Lenox Av (2, 3)\",\"text\":\"135 St - Lenox Av (2, 3)\",\"value\":\"224\"},{\"display\":\"135 St - St Nicholas Av (B, C)\",\"text\":\"135 St - St Nicholas Av (B, C)\",\"value\":\"A14\"},{\"display\":\"137 St-City College (1)\",\"text\":\"137 St-City College (1)\",\"value\":\"115\"},{\"display\":\"138 St-Grand Concourse (4, 5)\",\"text\":\"138 St-Grand Concourse (4, 5)\",\"value\":\"416\"},{\"display\":\"145 St - Broadway (1)\",\"text\":\"145 St - Broadway (1)\",\"value\":\"114\"},{\"display\":\"145 St - Lenox Av (3)\",\"text\":\"145 St - Lenox Av (3)\",\"value\":\"302\"},{\"display\":\"145 St - St Nicholas Av (Lower Level) (B, D)\",\"text\":\"145 St - St Nicholas Av (Lower Level) (B, D)\",\"value\":\"D13\"},{\"display\":\"145 St - St Nicholas Av (Upper Level) (A, C)\",\"text\":\"145 St - St Nicholas Av (Upper Level) (A, C)\",\"value\":\"A12\"},{\"display\":\"149 St-Grand Concourse - Lower Level (2, 5)\",\"text\":\"149 St-Grand Concourse - Lower Level (2, 5)\",\"value\":\"222\"},{\"display\":\"149 St-Grand Concourse - Upper Level (4)\",\"text\":\"149 St-Grand Concourse - Upper Level (4)\",\"value\":\"415\"},{\"display\":\"155 St - Frederick Douglass Blvd (B, D)\",\"text\":\"155 St - Frederick Douglass Blvd (B, D)\",\"value\":\"D12\"},{\"display\":\"155 St - St Nicholas Av (C)\",\"text\":\"155 St - St Nicholas Av (C)\",\"value\":\"A11\"},{\"display\":\"157 St (1)\",\"text\":\"157 St (1)\",\"value\":\"113\"},{\"display\":\"161 St-Yankee Stadium - Concourse Line (B, D)\",\"text\":\"161 St-Yankee Stadium - Concourse Line (B, D)\",\"value\":\"D11\"},{\"display\":\"161 St-Yankee Stadium - Jerome Av Line (4)\",\"text\":\"161 St-Yankee Stadium - Jerome Av Line (4)\",\"value\":\"414\"},{\"display\":\"163 St-Amsterdam Av (C)\",\"text\":\"163 St-Amsterdam Av (C)\",\"value\":\"A10\"},{\"display\":\"167 St - Grand Concourse (B, D)\",\"text\":\"167 St - Grand Concourse (B, D)\",\"value\":\"D10\"},{\"display\":\"167 St - River Av (4)\",\"text\":\"167 St - River Av (4)\",\"value\":\"413\"},{\"display\":\"168 St-Washington Hts - Broadway–7 Av Line (1)\",\"text\":\"168 St-Washington Hts - Broadway–7 Av Line (1)\",\"value\":\"112\"},{\"display\":\"168 St - 8 Av Line (A, C)\",\"text\":\"168 St - 8 Av Line (A, C)\",\"value\":\"A09\"},{\"display\":\"169 St (F)\",\"text\":\"169 St (F)\",\"value\":\"F02\"},{\"display\":\"170 St - Grand Concourse (B, D)\",\"text\":\"170 St - Grand Concourse (B, D)\",\"value\":\"D09\"},{\"display\":\"170 St - Jerome Av (4)\",\"text\":\"170 St - Jerome Av (4)\",\"value\":\"412\"},{\"display\":\"174-175 Sts (B, D)\",\"text\":\"174-175 Sts (B, D)\",\"value\":\"D08\"},{\"display\":\"174 St (2, 5)\",\"text\":\"174 St (2, 5)\",\"value\":\"215\"},{\"display\":\"175 St (A)\",\"text\":\"175 St (A)\",\"value\":\"A07\"},{\"display\":\"176 St (4)\",\"text\":\"176 St (4)\",\"value\":\"410\"},{\"display\":\"181 St - Ft Washington Av (A)\",\"text\":\"181 St - Ft Washington Av (A)\",\"value\":\"A06\"},{\"display\":\"181 St - St Nicholas Av (1)\",\"text\":\"181 St - St Nicholas Av (1)\",\"value\":\"111\"},{\"display\":\"182-183 Sts (B, D)\",\"text\":\"182-183 Sts (B, D)\",\"value\":\"D06\"},{\"display\":\"183 St (4)\",\"text\":\"183 St (4)\",\"value\":\"408\"},{\"display\":\"190 St (A)\",\"text\":\"190 St (A)\",\"value\":\"A05\"},{\"display\":\"191 St (1)\",\"text\":\"191 St (1)\",\"value\":\"110\"},{\"display\":\"207 St (1)\",\"text\":\"207 St (1)\",\"value\":\"108\"},{\"display\":\"215 St (1)\",\"text\":\"215 St (1)\",\"value\":\"107\"},{\"display\":\"219 St (2)\",\"text\":\"219 St (2)\",\"value\":\"207\"},{\"display\":\"225 St (2)\",\"text\":\"225 St (2)\",\"value\":\"206\"},{\"display\":\"231 St (1)\",\"text\":\"231 St (1)\",\"value\":\"104\"},{\"display\":\"233 St (2)\",\"text\":\"233 St (2)\",\"value\":\"205\"},{\"display\":\"238 St (1)\",\"text\":\"238 St (1)\",\"value\":\"103\"},{\"display\":\"Alabama Av (J)\",\"text\":\"Alabama Av (J)\",\"value\":\"J24\"},{\"display\":\"Allerton Av (2)\",\"text\":\"Allerton Av (2)\",\"value\":\"210\"},{\"display\":\"Annadale (SI)\",\"text\":\"Annadale (SI)\",\"value\":\"S17\"},{\"display\":\"Aqueduct-N Conduit Av (A)\",\"text\":\"Aqueduct-N Conduit Av (A)\",\"value\":\"H02\"},{\"display\":\"Aqueduct Racetrack (A)\",\"text\":\"Aqueduct Racetrack (A)\",\"value\":\"H01\"},{\"display\":\"Arthur Kill (SI)\",\"text\":\"Arthur Kill (SI)\",\"value\":\"S11\"},{\"display\":\"Astor Pl (6, 6X)\",\"text\":\"Astor Pl (6, 6X)\",\"value\":\"636\"},{\"display\":\"Astoria Blvd (N, W)\",\"text\":\"Astoria Blvd (N, W)\",\"value\":\"R03\"},{\"display\":\"Astoria-Ditmars Blvd (N, W)\",\"text\":\"Astoria-Ditmars Blvd (N, W)\",\"value\":\"R01\"},{\"display\":\"Atlantic Av (L)\",\"text\":\"Atlantic Av (L)\",\"value\":\"L24\"},{\"display\":\"Atlantic Av-Barclays Ctr - 4 Av Line (D, N, R, W)\",\"text\":\"Atlantic Av-Barclays Ctr - 4 Av Line (D, N, R, W)\",\"value\":\"R31\"},{\"display\":\"Atlantic Av-Barclays Ctr - Brighton Line (B, Q)\",\"text\":\"Atlantic Av-Barclays Ctr - Brighton Line (B, Q)\",\"value\":\"D24\"},{\"display\":\"Atlantic Av-Barclays Ctr - Eastern Pkwy Line (2, 3, 4, 5)\",\"text\":\"Atlantic Av-Barclays Ctr - Eastern Pkwy Line (2, 3, 4, 5)\",\"value\":\"235\"},{\"display\":\"Avenue H (Q)\",\"text\":\"Avenue H (Q)\",\"value\":\"D32\"},{\"display\":\"Avenue I (F)\",\"text\":\"Avenue I (F)\",\"value\":\"F31\"},{\"display\":\"Avenue J (Q)\",\"text\":\"Avenue J (Q)\",\"value\":\"D33\"},{\"display\":\"Avenue M (Q)\",\"text\":\"Avenue M (Q)\",\"value\":\"D34\"},{\"display\":\"Avenue N (F)\",\"text\":\"Avenue N (F)\",\"value\":\"F33\"},{\"display\":\"Avenue P (F)\",\"text\":\"Avenue P (F)\",\"value\":\"F34\"},{\"display\":\"Avenue U - E 16 St (Q)\",\"text\":\"Avenue U - E 16 St (Q)\",\"value\":\"D37\"},{\"display\":\"Avenue U - McDonald Av (F)\",\"text\":\"Avenue U - McDonald Av (F)\",\"value\":\"F36\"},{\"display\":\"Avenue U - W 7 St (N)\",\"text\":\"Avenue U - W 7 St (N)\",\"value\":\"N09\"},{\"display\":\"Avenue X (F)\",\"text\":\"Avenue X (F)\",\"value\":\"F38\"},{\"display\":\"Bay 50 St (D)\",\"text\":\"Bay 50 St (D)\",\"value\":\"B23\"},{\"display\":\"Bay Pkwy - 86 St (D, W)\",\"text\":\"Bay Pkwy - 86 St (D, W)\",\"value\":\"B21\"},{\"display\":\"Bay Pkwy - Avenue O (N)\",\"text\":\"Bay Pkwy - Avenue O (N)\",\"value\":\"N07\"},{\"display\":\"Bay Pkwy - McDonald Av (F)\",\"text\":\"Bay Pkwy - McDonald Av (F)\",\"value\":\"F32\"},{\"display\":\"Bay Ridge-95 St (R)\",\"text\":\"Bay Ridge-95 St (R)\",\"value\":\"R45\"},{\"display\":\"Bay Ridge Av (R)\",\"text\":\"Bay Ridge Av (R)\",\"value\":\"R42\"},{\"display\":\"Bay Terrace (SI)\",\"text\":\"Bay Terrace (SI)\",\"value\":\"S20\"},{\"display\":\"Baychester Av (5)\",\"text\":\"Baychester Av (5)\",\"value\":\"502\"},{\"display\":\"Beach 25 St (A)\",\"text\":\"Beach 25 St (A)\",\"value\":\"H10\"},{\"display\":\"Beach 36 St (A)\",\"text\":\"Beach 36 St (A)\",\"value\":\"H09\"},{\"display\":\"Beach 44 St (A)\",\"text\":\"Beach 44 St (A)\",\"value\":\"H08\"},{\"display\":\"Beach 60 St (A)\",\"text\":\"Beach 60 St (A)\",\"value\":\"H07\"},{\"display\":\"Beach 67 St (A)\",\"text\":\"Beach 67 St (A)\",\"value\":\"H06\"},{\"display\":\"Beach 90 St (H)\",\"text\":\"Beach 90 St (H)\",\"value\":\"H12\"},{\"display\":\"Beach 98 St (H)\",\"text\":\"Beach 98 St (H)\",\"value\":\"H13\"},{\"display\":\"Beach 105 St (H)\",\"text\":\"Beach 105 St (H)\",\"value\":\"H14\"},{\"display\":\"Bedford Av (L)\",\"text\":\"Bedford Av (L)\",\"value\":\"L08\"},{\"display\":\"Bedford-Nostrand Avs (G)\",\"text\":\"Bedford-Nostrand Avs (G)\",\"value\":\"G33\"},{\"display\":\"Bedford Park Blvd (B, D)\",\"text\":\"Bedford Park Blvd (B, D)\",\"value\":\"D03\"},{\"display\":\"Bedford Park Blvd-Lehman College (4)\",\"text\":\"Bedford Park Blvd-Lehman College (4)\",\"value\":\"405\"},{\"display\":\"Bergen St - Flatbush Av (2, 3)\",\"text\":\"Bergen St - Flatbush Av (2, 3)\",\"value\":\"236\"},{\"display\":\"Bergen St - Smith St (F, G)\",\"text\":\"Bergen St - Smith St (F, G)\",\"value\":\"F20\"},{\"display\":\"Beverley Rd (Q)\",\"text\":\"Beverley Rd (Q)\",\"value\":\"D29\"},{\"display\":\"Beverly Rd (2, 5)\",\"text\":\"Beverly Rd (2, 5)\",\"value\":\"245\"},{\"display\":\"Bleecker St (6, 6X)\",\"text\":\"Bleecker St (6, 6X)\",\"value\":\"637\"},{\"display\":\"Borough Hall - 7 Av Line (2, 3)\",\"text\":\"Borough Hall - 7 Av Line (2, 3)\",\"value\":\"232\"},{\"display\":\"Borough Hall - Lexington Av Line (4, 5)\",\"text\":\"Borough Hall - Lexington Av Line (4, 5)\",\"value\":\"423\"},{\"display\":\"Botanic Garden (FS)\",\"text\":\"Botanic Garden (FS)\",\"value\":\"S04\"},{\"display\":\"Bowery (J)\",\"text\":\"Bowery (J)\",\"value\":\"M19\"},{\"display\":\"Bowling Green (4, 5)\",\"text\":\"Bowling Green (4, 5)\",\"value\":\"420\"},{\"display\":\"Briarwood-Van Wyck Blvd (F)\",\"text\":\"Briarwood-Van Wyck Blvd (F)\",\"value\":\"F05\"},{\"display\":\"Brighton Beach (B, Q)\",\"text\":\"Brighton Beach (B, Q)\",\"value\":\"D40\"},{\"display\":\"Broad Channel (A, H)\",\"text\":\"Broad Channel (A, H)\",\"value\":\"H04\"},{\"display\":\"Broad St (J)\",\"text\":\"Broad St (J)\",\"value\":\"M23\"},{\"display\":\"Broadway Jct - Canarsie Line (L)\",\"text\":\"Broadway Jct - Canarsie Line (L)\",\"value\":\"L22\"},{\"display\":\"Broadway Jct - Fulton St Line (A, C)\",\"text\":\"Broadway Jct - Fulton St Line (A, C)\",\"value\":\"A51\"},{\"display\":\"Broadway Jct - Jamaica Line (J)\",\"text\":\"Broadway Jct - Jamaica Line (J)\",\"value\":\"J27\"},{\"display\":\"Broadway-Lafayette St (B, D, F, M)\",\"text\":\"Broadway-Lafayette St (B, D, F, M)\",\"value\":\"D21\"},{\"display\":\"Broadway - 31 St (N, W)\",\"text\":\"Broadway - 31 St (N, W)\",\"value\":\"R05\"},{\"display\":\"Broadway - Union Av (G)\",\"text\":\"Broadway - Union Av (G)\",\"value\":\"G30\"},{\"display\":\"Bronx Park East (2)\",\"text\":\"Bronx Park East (2)\",\"value\":\"212\"},{\"display\":\"Brook Av (6)\",\"text\":\"Brook Av (6)\",\"value\":\"618\"},{\"display\":\"Brooklyn Bridge-City Hall (4, 5, 6, 6X)\",\"text\":\"Brooklyn Bridge-City Hall (4, 5, 6, 6X)\",\"value\":\"640\"},{\"display\":\"Buhre Av (6, 6X)\",\"text\":\"Buhre Av (6, 6X)\",\"value\":\"602\"},{\"display\":\"Burke Av (2)\",\"text\":\"Burke Av (2)\",\"value\":\"209\"},{\"display\":\"Burnside Av (4)\",\"text\":\"Burnside Av (4)\",\"value\":\"409\"},{\"display\":\"Bushwick Av-Aberdeen St (L)\",\"text\":\"Bushwick Av-Aberdeen St (L)\",\"value\":\"L21\"},{\"display\":\"Canal St - 6 Av (A, C, E)\",\"text\":\"Canal St - 6 Av (A, C, E)\",\"value\":\"A34\"},{\"display\":\"Canal St - Broadway (Lower Level) (N, Q)\",\"text\":\"Canal St - Broadway (Lower Level) (N, Q)\",\"value\":\"Q01\"},{\"display\":\"Canal St - Broadway (Upper Level) (R, W)\",\"text\":\"Canal St - Broadway (Upper Level) (R, W)\",\"value\":\"R23\"},{\"display\":\"Canal St - Centre St (J)\",\"text\":\"Canal St - Centre St (J)\",\"value\":\"M20\"},{\"display\":\"Canal St - Lafayette St (6, 6X)\",\"text\":\"Canal St - Lafayette St (6, 6X)\",\"value\":\"639\"},{\"display\":\"Canal St - Varick St (1)\",\"text\":\"Canal St - Varick St (1)\",\"value\":\"135\"},{\"display\":\"Canarsie-Rockaway Pkwy (L)\",\"text\":\"Canarsie-Rockaway Pkwy (L)\",\"value\":\"L29\"},{\"display\":\"Carroll St (F, G)\",\"text\":\"Carroll St (F, G)\",\"value\":\"F21\"},{\"display\":\"Castle Hill Av (6, 6X)\",\"text\":\"Castle Hill Av (6, 6X)\",\"value\":\"607\"},{\"display\":\"Cathedral Pkwy (110 St) - Broadway (1)\",\"text\":\"Cathedral Pkwy (110 St) - Broadway (1)\",\"value\":\"118\"},{\"display\":\"Cathedral Pkwy (110 St) - Frederick Douglass Blvd (B, C)\",\"text\":\"Cathedral Pkwy (110 St) - Frederick Douglass Blvd (B, C)\",\"value\":\"A17\"},{\"display\":\"Central Av (M)\",\"text\":\"Central Av (M)\",\"value\":\"M10\"},{\"display\":\"Chambers St - Centre St (J)\",\"text\":\"Chambers St - Centre St (J)\",\"value\":\"M21\"},{\"display\":\"Chambers St - Church St (A, C)\",\"text\":\"Chambers St - Church St (A, C)\",\"value\":\"A36\"},{\"display\":\"Chambers St - West Broadway (1, 2, 3)\",\"text\":\"Chambers St - West Broadway (1, 2, 3)\",\"value\":\"137\"},{\"display\":\"Chauncey St (J)\",\"text\":\"Chauncey St (J)\",\"value\":\"J28\"},{\"display\":\"Christopher St-Stonewall (1)\",\"text\":\"Christopher St-Stonewall (1)\",\"value\":\"133\"},{\"display\":\"Church Av - E 18 St (B, Q)\",\"text\":\"Church Av - E 18 St (B, Q)\",\"value\":\"D28\"},{\"display\":\"Church Av - McDonald Av (F, G)\",\"text\":\"Church Av - McDonald Av (F, G)\",\"value\":\"F27\"},{\"display\":\"Church Av - Nostrand Av (2, 5)\",\"text\":\"Church Av - Nostrand Av (2, 5)\",\"value\":\"244\"},{\"display\":\"City Hall (R, W)\",\"text\":\"City Hall (R, W)\",\"value\":\"R24\"},{\"display\":\"Clark St (2, 3)\",\"text\":\"Clark St (2, 3)\",\"value\":\"231\"},{\"display\":\"Classon Av (G)\",\"text\":\"Classon Av (G)\",\"value\":\"G34\"},{\"display\":\"Cleveland St (J)\",\"text\":\"Cleveland St (J)\",\"value\":\"J22\"},{\"display\":\"Clifton (SI)\",\"text\":\"Clifton (SI)\",\"value\":\"S28\"},{\"display\":\"Clinton-Washington Avs - Fulton St (C)\",\"text\":\"Clinton-Washington Avs - Fulton St (C)\",\"value\":\"A44\"},{\"display\":\"Clinton-Washington Avs - Lafayette Av (G)\",\"text\":\"Clinton-Washington Avs - Lafayette Av (G)\",\"value\":\"G35\"},{\"display\":\"Coney Island-Stillwell Av (D, F, N, Q)\",\"text\":\"Coney Island-Stillwell Av (D, F, N, Q)\",\"value\":\"D43\"},{\"display\":\"Cortelyou Rd (Q)\",\"text\":\"Cortelyou Rd (Q)\",\"value\":\"D30\"},{\"display\":\"Cortlandt St (R, W)\",\"text\":\"Cortlandt St (R, W)\",\"value\":\"R25\"},{\"display\":\"Court Sq-23 St (E, F)\",\"text\":\"Court Sq-23 St (E, F)\",\"value\":\"F09\"},{\"display\":\"Court Sq - Crosstown Line (G)\",\"text\":\"Court Sq - Crosstown Line (G)\",\"value\":\"G22\"},{\"display\":\"Court Sq - Flushing Line (7, 7X)\",\"text\":\"Court Sq - Flushing Line (7, 7X)\",\"value\":\"719\"},{\"display\":\"Court St (R, W)\",\"text\":\"Court St (R, W)\",\"value\":\"R28\"},{\"display\":\"Crescent St (J)\",\"text\":\"Crescent St (J)\",\"value\":\"J20\"},{\"display\":\"Crown Hts-Utica Av (2, 3, 4)\",\"text\":\"Crown Hts-Utica Av (2, 3, 4)\",\"value\":\"250\"},{\"display\":\"Cypress Av (6)\",\"text\":\"Cypress Av (6)\",\"value\":\"617\"},{\"display\":\"Cypress Hills (J)\",\"text\":\"Cypress Hills (J)\",\"value\":\"J19\"},{\"display\":\"DeKalb Av - Flatbush Av Ext (B, Q, R, W)\",\"text\":\"DeKalb Av - Flatbush Av Ext (B, Q, R, W)\",\"value\":\"R30\"},{\"display\":\"DeKalb Av - Wyckoff Av (L)\",\"text\":\"DeKalb Av - Wyckoff Av (L)\",\"value\":\"L16\"},{\"display\":\"Delancey St (F)\",\"text\":\"Delancey St (F)\",\"value\":\"F15\"},{\"display\":\"Ditmas Av (F)\",\"text\":\"Ditmas Av (F)\",\"value\":\"F29\"},{\"display\":\"Dongan Hills (SI)\",\"text\":\"Dongan Hills (SI)\",\"value\":\"S25\"},{\"display\":\"Dyckman St - Broadway (A)\",\"text\":\"Dyckman St - Broadway (A)\",\"value\":\"A03\"},{\"display\":\"Dyckman St - Nagle Av (1)\",\"text\":\"Dyckman St - Nagle Av (1)\",\"value\":\"109\"},{\"display\":\"E 105 St (L)\",\"text\":\"E 105 St (L)\",\"value\":\"L28\"},{\"display\":\"E 143 St-St Mary's St (6)\",\"text\":\"E 143 St-St Mary's St (6)\",\"value\":\"616\"},{\"display\":\"E 149 St (6)\",\"text\":\"E 149 St (6)\",\"value\":\"615\"},{\"display\":\"E 180 St (2, 5)\",\"text\":\"E 180 St (2, 5)\",\"value\":\"213\"},{\"display\":\"East Broadway (F)\",\"text\":\"East Broadway (F)\",\"value\":\"F16\"},{\"display\":\"Eastchester-Dyre Av (5)\",\"text\":\"Eastchester-Dyre Av (5)\",\"value\":\"501\"},{\"display\":\"Eastern Pkwy-Brooklyn Museum (2, 3)\",\"text\":\"Eastern Pkwy-Brooklyn Museum (2, 3)\",\"value\":\"238\"},{\"display\":\"Elder Av (6)\",\"text\":\"Elder Av (6)\",\"value\":\"611\"},{\"display\":\"Elmhurst Av (M, R)\",\"text\":\"Elmhurst Av (M, R)\",\"value\":\"G13\"},{\"display\":\"Eltingville (SI)\",\"text\":\"Eltingville (SI)\",\"value\":\"S18\"},{\"display\":\"Essex St (J, M)\",\"text\":\"Essex St (J, M)\",\"value\":\"M18\"},{\"display\":\"Euclid Av (A, C)\",\"text\":\"Euclid Av (A, C)\",\"value\":\"A55\"},{\"display\":\"Far Rockaway-Mott Av (A)\",\"text\":\"Far Rockaway-Mott Av (A)\",\"value\":\"H11\"},{\"display\":\"Flatbush Av-Brooklyn College (2, 5)\",\"text\":\"Flatbush Av-Brooklyn College (2, 5)\",\"value\":\"247\"},{\"display\":\"Flushing Av - Broadway (J, M)\",\"text\":\"Flushing Av - Broadway (J, M)\",\"value\":\"M12\"},{\"display\":\"Flushing Av - Union Av (G)\",\"text\":\"Flushing Av - Union Av (G)\",\"value\":\"G31\"},{\"display\":\"Flushing-Main St (7, 7X)\",\"text\":\"Flushing-Main St (7, 7X)\",\"value\":\"701\"},{\"display\":\"Fordham Rd - Grand Concourse (B, D)\",\"text\":\"Fordham Rd - Grand Concourse (B, D)\",\"value\":\"D05\"},{\"display\":\"Fordham Rd - Jerome Av (4)\",\"text\":\"Fordham Rd - Jerome Av (4)\",\"value\":\"407\"},{\"display\":\"Forest Av (M)\",\"text\":\"Forest Av (M)\",\"value\":\"M05\"},{\"display\":\"Forest Hills-71 Av (E, F, M, R)\",\"text\":\"Forest Hills-71 Av (E, F, M, R)\",\"value\":\"G08\"},{\"display\":\"Fort Hamilton Pkwy - 62 St (N)\",\"text\":\"Fort Hamilton Pkwy - 62 St (N)\",\"value\":\"N03\"},{\"display\":\"Fort Hamilton Pkwy - New Utrecht Av (D)\",\"text\":\"Fort Hamilton Pkwy - New Utrecht Av (D)\",\"value\":\"B13\"},{\"display\":\"Fort Hamilton Pkwy - Prospect Av (F, G)\",\"text\":\"Fort Hamilton Pkwy - Prospect Av (F, G)\",\"value\":\"F26\"},{\"display\":\"Franklin Av-Medgar Evers College (2, 3, 4, 5)\",\"text\":\"Franklin Av-Medgar Evers College (2, 3, 4, 5)\",\"value\":\"239\"},{\"display\":\"Franklin Av - Fulton St (C)\",\"text\":\"Franklin Av - Fulton St (C)\",\"value\":\"A45\"},{\"display\":\"Franklin Av - Shuttle (FS)\",\"text\":\"Franklin Av - Shuttle (FS)\",\"value\":\"S01\"},{\"display\":\"Franklin St (1)\",\"text\":\"Franklin St (1)\",\"value\":\"136\"},{\"display\":\"Freeman St (2, 5)\",\"text\":\"Freeman St (2, 5)\",\"value\":\"216\"},{\"display\":\"Fresh Pond Rd (M)\",\"text\":\"Fresh Pond Rd (M)\",\"value\":\"M04\"},{\"display\":\"Fulton St - Bway-Nassau St (7 Av) (2, 3)\",\"text\":\"Fulton St - Bway-Nassau St (7 Av) (2, 3)\",\"value\":\"229\"},{\"display\":\"Fulton St - Bway-Nassau St (8 Av) (A, C)\",\"text\":\"Fulton St - Bway-Nassau St (8 Av) (A, C)\",\"value\":\"A38\"},{\"display\":\"Fulton St - Bway-Nassau St (Lex Av) (4, 5)\",\"text\":\"Fulton St - Bway-Nassau St (Lex Av) (4, 5)\",\"value\":\"418\"},{\"display\":\"Fulton St - Bway-Nassau St (Nassau St) (J)\",\"text\":\"Fulton St - Bway-Nassau St (Nassau St) (J)\",\"value\":\"M22\"},{\"display\":\"Fulton St - Lafayette Av (G)\",\"text\":\"Fulton St - Lafayette Av (G)\",\"value\":\"G36\"},{\"display\":\"Gates Av (J)\",\"text\":\"Gates Av (J)\",\"value\":\"J30\"},{\"display\":\"Graham Av (L)\",\"text\":\"Graham Av (L)\",\"value\":\"L11\"},{\"display\":\"Grand Army Plaza (2, 3)\",\"text\":\"Grand Army Plaza (2, 3)\",\"value\":\"237\"},{\"display\":\"Grand Av-Newtown (M, R)\",\"text\":\"Grand Av-Newtown (M, R)\",\"value\":\"G12\"},{\"display\":\"Grand Central-42 St - 42 St Shuttle (GS)\",\"text\":\"Grand Central-42 St - 42 St Shuttle (GS)\",\"value\":\"901\"},{\"display\":\"Grand Central-42 St - Flushing Line (7, 7X)\",\"text\":\"Grand Central-42 St - Flushing Line (7, 7X)\",\"value\":\"723\"},{\"display\":\"Grand Central-42 St - Lexington Av Line (4, 5, 6, 6X)\",\"text\":\"Grand Central-42 St - Lexington Av Line (4, 5, 6, 6X)\",\"value\":\"631\"},{\"display\":\"Grand St - Bushwick Av (L)\",\"text\":\"Grand St - Bushwick Av (L)\",\"value\":\"L12\"},{\"display\":\"Grand St - Chrystie St (B, D)\",\"text\":\"Grand St - Chrystie St (B, D)\",\"value\":\"D22\"},{\"display\":\"Grant Av (A)\",\"text\":\"Grant Av (A)\",\"value\":\"A57\"},{\"display\":\"Grant City (SI)\",\"text\":\"Grant City (SI)\",\"value\":\"S23\"},{\"display\":\"Grasmere (SI)\",\"text\":\"Grasmere (SI)\",\"value\":\"S27\"},{\"display\":\"Great Kills (SI)\",\"text\":\"Great Kills (SI)\",\"value\":\"S19\"},{\"display\":\"Greenpoint Av (G)\",\"text\":\"Greenpoint Av (G)\",\"value\":\"G26\"},{\"display\":\"Gun Hill Rd - Seymour Av (5)\",\"text\":\"Gun Hill Rd - Seymour Av (5)\",\"value\":\"503\"},{\"display\":\"Gun Hill Rd - White Plains Rd (2, 5)\",\"text\":\"Gun Hill Rd - White Plains Rd (2, 5)\",\"value\":\"208\"},{\"display\":\"Halsey St - Broadway (J)\",\"text\":\"Halsey St - Broadway (J)\",\"value\":\"J29\"},{\"display\":\"Halsey St - Wyckoff Av (L)\",\"text\":\"Halsey St - Wyckoff Av (L)\",\"value\":\"L19\"},{\"display\":\"Harlem-148 St (3)\",\"text\":\"Harlem-148 St (3)\",\"value\":\"301\"},{\"display\":\"Hewes St (J, M)\",\"text\":\"Hewes St (J, M)\",\"value\":\"M14\"},{\"display\":\"High St (A, C)\",\"text\":\"High St (A, C)\",\"value\":\"A40\"},{\"display\":\"Houston St (1)\",\"text\":\"Houston St (1)\",\"value\":\"134\"},{\"display\":\"Howard Beach-JFK Airport (A)\",\"text\":\"Howard Beach-JFK Airport (A)\",\"value\":\"H03\"},{\"display\":\"Hoyt-Schermerhorn Sts (A, C, G)\",\"text\":\"Hoyt-Schermerhorn Sts (A, C, G)\",\"value\":\"A42\"},{\"display\":\"Hoyt St (2, 3)\",\"text\":\"Hoyt St (2, 3)\",\"value\":\"233\"},{\"display\":\"Huguenot (SI)\",\"text\":\"Huguenot (SI)\",\"value\":\"S16\"},{\"display\":\"Hunters Point Av (7, 7X)\",\"text\":\"Hunters Point Av (7, 7X)\",\"value\":\"720\"},{\"display\":\"Hunts Point Av (6, 6X)\",\"text\":\"Hunts Point Av (6, 6X)\",\"value\":\"613\"},{\"display\":\"Intervale Av (2, 5)\",\"text\":\"Intervale Av (2, 5)\",\"value\":\"218\"},{\"display\":\"Inwood-207 St (A)\",\"text\":\"Inwood-207 St (A)\",\"value\":\"A02\"},{\"display\":\"Jackson Av (2, 5)\",\"text\":\"Jackson Av (2, 5)\",\"value\":\"220\"},{\"display\":\"Jackson Hts-Roosevelt Av (E, F, M, R)\",\"text\":\"Jackson Hts-Roosevelt Av (E, F, M, R)\",\"value\":\"G14\"},{\"display\":\"Jamaica-179 St (E, F)\",\"text\":\"Jamaica-179 St (E, F)\",\"value\":\"F01\"},{\"display\":\"Jamaica Center-Parsons/Archer (E, J)\",\"text\":\"Jamaica Center-Parsons/Archer (E, J)\",\"value\":\"G05\"},{\"display\":\"Jamaica-Van Wyck (E)\",\"text\":\"Jamaica-Van Wyck (E)\",\"value\":\"G07\"},{\"display\":\"Jay St-MetroTech - 4 Av Line (R, W)\",\"text\":\"Jay St-MetroTech - 4 Av Line (R, W)\",\"value\":\"R29\"},{\"display\":\"Jay St-MetroTech - Fulton St & Culver Lines (A, C, F)\",\"text\":\"Jay St-MetroTech - Fulton St & Culver Lines (A, C, F)\",\"value\":\"A41\"},{\"display\":\"Jefferson Av (SI)\",\"text\":\"Jefferson Av (SI)\",\"value\":\"S24\"},{\"display\":\"Jefferson St (L)\",\"text\":\"Jefferson St (L)\",\"value\":\"L15\"},{\"display\":\"Junction Blvd (7, 7X)\",\"text\":\"Junction Blvd (7, 7X)\",\"value\":\"707\"},{\"display\":\"Junius St (2, 3)\",\"text\":\"Junius St (2, 3)\",\"value\":\"254\"},{\"display\":\"Kew Gardens-Union Tpke (E, F)\",\"text\":\"Kew Gardens-Union Tpke (E, F)\",\"value\":\"F06\"},{\"display\":\"Kings Hwy - E 16 St (B, Q)\",\"text\":\"Kings Hwy - E 16 St (B, Q)\",\"value\":\"D35\"},{\"display\":\"Kings Hwy - McDonald Av (F)\",\"text\":\"Kings Hwy - McDonald Av (F)\",\"value\":\"F35\"},{\"display\":\"Kings Hwy - W 7 St (N)\",\"text\":\"Kings Hwy - W 7 St (N)\",\"value\":\"N08\"},{\"display\":\"Kingsbridge Rd - Grand Concourse (B, D)\",\"text\":\"Kingsbridge Rd - Grand Concourse (B, D)\",\"value\":\"D04\"},{\"display\":\"Kingsbridge Rd - Jerome Av (4)\",\"text\":\"Kingsbridge Rd - Jerome Av (4)\",\"value\":\"406\"},{\"display\":\"Kingston Av (2, 3)\",\"text\":\"Kingston Av (2, 3)\",\"value\":\"249\"},{\"display\":\"Kingston-Throop Avs (C)\",\"text\":\"Kingston-Throop Avs (C)\",\"value\":\"A47\"},{\"display\":\"Knickerbocker Av (M)\",\"text\":\"Knickerbocker Av (M)\",\"value\":\"M09\"},{\"display\":\"Kosciuszko St (J)\",\"text\":\"Kosciuszko St (J)\",\"value\":\"J31\"},{\"display\":\"Lafayette Av (C)\",\"text\":\"Lafayette Av (C)\",\"value\":\"A43\"},{\"display\":\"Lexington Av/53 St (E, F)\",\"text\":\"Lexington Av/53 St (E, F)\",\"value\":\"F11\"},{\"display\":\"Lexington Av/59 St (N, R, W)\",\"text\":\"Lexington Av/59 St (N, R, W)\",\"value\":\"R11\"},{\"display\":\"Lexington Av/63 St (M, Q)\",\"text\":\"Lexington Av/63 St (M, Q)\",\"value\":\"B08\"},{\"display\":\"Liberty Av (C)\",\"text\":\"Liberty Av (C)\",\"value\":\"A52\"},{\"display\":\"Livonia Av (L)\",\"text\":\"Livonia Av (L)\",\"value\":\"L26\"},{\"display\":\"Longwood Av (6)\",\"text\":\"Longwood Av (6)\",\"value\":\"614\"},{\"display\":\"Lorimer St - Broadway (J, M)\",\"text\":\"Lorimer St - Broadway (J, M)\",\"value\":\"M13\"},{\"display\":\"Lorimer St - Metropolitan Av (L)\",\"text\":\"Lorimer St - Metropolitan Av (L)\",\"value\":\"L10\"},{\"display\":\"Marble Hill-225 St (1)\",\"text\":\"Marble Hill-225 St (1)\",\"value\":\"106\"},{\"display\":\"Marcy Av (J, M)\",\"text\":\"Marcy Av (J, M)\",\"value\":\"M16\"},{\"display\":\"Metropolitan Av (G)\",\"text\":\"Metropolitan Av (G)\",\"value\":\"G29\"},{\"display\":\"Mets-Willets Point (7, 7X)\",\"text\":\"Mets-Willets Point (7, 7X)\",\"value\":\"702\"},{\"display\":\"Middle Village-Metropolitan Av (M)\",\"text\":\"Middle Village-Metropolitan Av (M)\",\"value\":\"M01\"},{\"display\":\"Middletown Rd (6, 6X)\",\"text\":\"Middletown Rd (6, 6X)\",\"value\":\"603\"},{\"display\":\"Montrose Av (L)\",\"text\":\"Montrose Av (L)\",\"value\":\"L13\"},{\"display\":\"Morgan Av (L)\",\"text\":\"Morgan Av (L)\",\"value\":\"L14\"},{\"display\":\"Morris Park (5)\",\"text\":\"Morris Park (5)\",\"value\":\"505\"},{\"display\":\"Morrison Av-Sound View (6)\",\"text\":\"Morrison Av-Sound View (6)\",\"value\":\"610\"},{\"display\":\"Mosholu Pkwy (4)\",\"text\":\"Mosholu Pkwy (4)\",\"value\":\"402\"},{\"display\":\"Mt Eden Av (4)\",\"text\":\"Mt Eden Av (4)\",\"value\":\"411\"},{\"display\":\"Myrtle Av (J, M)\",\"text\":\"Myrtle Av (J, M)\",\"value\":\"M11\"},{\"display\":\"Myrtle-Willoughby Avs (G)\",\"text\":\"Myrtle-Willoughby Avs (G)\",\"value\":\"G32\"},{\"display\":\"Myrtle-Wyckoff Avs - Canarsie Line (L)\",\"text\":\"Myrtle-Wyckoff Avs - Canarsie Line (L)\",\"value\":\"L17\"},{\"display\":\"Myrtle-Wyckoff Avs - Myrtle Av Line (M)\",\"text\":\"Myrtle-Wyckoff Avs - Myrtle Av Line (M)\",\"value\":\"M08\"},{\"display\":\"Nassau Av (G)\",\"text\":\"Nassau Av (G)\",\"value\":\"G28\"},{\"display\":\"Neck Rd (Q)\",\"text\":\"Neck Rd (Q)\",\"value\":\"D38\"},{\"display\":\"Neptune Av (F)\",\"text\":\"Neptune Av (F)\",\"value\":\"F39\"},{\"display\":\"Nereid Av (2)\",\"text\":\"Nereid Av (2)\",\"value\":\"204\"},{\"display\":\"Nevins St (2, 3, 4, 5)\",\"text\":\"Nevins St (2, 3, 4, 5)\",\"value\":\"234\"},{\"display\":\"New Dorp (SI)\",\"text\":\"New Dorp (SI)\",\"value\":\"S22\"},{\"display\":\"New Lots Av - Livonia Av (2, 3)\",\"text\":\"New Lots Av - Livonia Av (2, 3)\",\"value\":\"257\"},{\"display\":\"New Lots Av - Van Sinderen Av (L)\",\"text\":\"New Lots Av - Van Sinderen Av (L)\",\"value\":\"L27\"},{\"display\":\"New Utrecht Av (N)\",\"text\":\"New Utrecht Av (N)\",\"value\":\"N04\"},{\"display\":\"Newkirk Av-Little Haiti (2, 5)\",\"text\":\"Newkirk Av-Little Haiti (2, 5)\",\"value\":\"246\"},{\"display\":\"Newkirk Plaza (B, Q)\",\"text\":\"Newkirk Plaza (B, Q)\",\"value\":\"D31\"},{\"display\":\"Northern Blvd (M, R)\",\"text\":\"Northern Blvd (M, R)\",\"value\":\"G16\"},{\"display\":\"Norwood-205 St (D)\",\"text\":\"Norwood-205 St (D)\",\"value\":\"D01\"},{\"display\":\"Norwood Av (J)\",\"text\":\"Norwood Av (J)\",\"value\":\"J21\"},{\"display\":\"Nostrand Av - Eastern Pkwy (2, 3)\",\"text\":\"Nostrand Av - Eastern Pkwy (2, 3)\",\"value\":\"248\"},{\"display\":\"Nostrand Av - Fulton St (A, C)\",\"text\":\"Nostrand Av - Fulton St (A, C)\",\"value\":\"A46\"},{\"display\":\"Oakwood Heights (SI)\",\"text\":\"Oakwood Heights (SI)\",\"value\":\"S21\"},{\"display\":\"Ocean Pkwy (Q)\",\"text\":\"Ocean Pkwy (Q)\",\"value\":\"D41\"},{\"display\":\"Old Town (SI)\",\"text\":\"Old Town (SI)\",\"value\":\"S26\"},{\"display\":\"Ozone Park-Lefferts Blvd (A)\",\"text\":\"Ozone Park-Lefferts Blvd (A)\",\"value\":\"A65\"},{\"display\":\"Park Pl - Broadway (2, 3)\",\"text\":\"Park Pl - Broadway (2, 3)\",\"value\":\"228\"},{\"display\":\"Park Pl - Franklin Av (FS)\",\"text\":\"Park Pl - Franklin Av (FS)\",\"value\":\"S03\"},{\"display\":\"Parkchester (6, 6X)\",\"text\":\"Parkchester (6, 6X)\",\"value\":\"608\"},{\"display\":\"Parkside Av (Q)\",\"text\":\"Parkside Av (Q)\",\"value\":\"D27\"},{\"display\":\"Parsons Blvd (E, F)\",\"text\":\"Parsons Blvd (E, F)\",\"value\":\"F03\"},{\"display\":\"Pelham Bay Park (6, 6X)\",\"text\":\"Pelham Bay Park (6, 6X)\",\"value\":\"601\"},{\"display\":\"Pelham Pkwy - Esplanade (5)\",\"text\":\"Pelham Pkwy - Esplanade (5)\",\"value\":\"504\"},{\"display\":\"Pelham Pkwy - White Plains Rd (2)\",\"text\":\"Pelham Pkwy - White Plains Rd (2)\",\"value\":\"211\"},{\"display\":\"Pennsylvania Av (2, 3)\",\"text\":\"Pennsylvania Av (2, 3)\",\"value\":\"255\"},{\"display\":\"Pleasant Plains (SI)\",\"text\":\"Pleasant Plains (SI)\",\"value\":\"S14\"},{\"display\":\"President St-Medgar Evers College (2, 5)\",\"text\":\"President St-Medgar Evers College (2, 5)\",\"value\":\"241\"},{\"display\":\"Prince St (R, W)\",\"text\":\"Prince St (R, W)\",\"value\":\"R22\"},{\"display\":\"Prince's Bay (SI)\",\"text\":\"Prince's Bay (SI)\",\"value\":\"S15\"},{\"display\":\"Prospect Av - 4 Av (R, W)\",\"text\":\"Prospect Av - 4 Av (R, W)\",\"value\":\"R34\"},{\"display\":\"Prospect Av - Westchester Av (2, 5)\",\"text\":\"Prospect Av - Westchester Av (2, 5)\",\"value\":\"219\"},{\"display\":\"Prospect Park (B, FS, Q)\",\"text\":\"Prospect Park (B, FS, Q)\",\"value\":\"D26\"},{\"display\":\"Queens Plaza (E, F, R)\",\"text\":\"Queens Plaza (E, F, R)\",\"value\":\"G21\"},{\"display\":\"Queensboro Plaza - Astoria Line (N, W)\",\"text\":\"Queensboro Plaza - Astoria Line (N, W)\",\"value\":\"R09\"},{\"display\":\"Queensboro Plaza - Flushing Line (7, 7X)\",\"text\":\"Queensboro Plaza - Flushing Line (7, 7X)\",\"value\":\"718\"},{\"display\":\"Ralph Av (C)\",\"text\":\"Ralph Av (C)\",\"value\":\"A49\"},{\"display\":\"Rector St - Greenwich St (1)\",\"text\":\"Rector St - Greenwich St (1)\",\"value\":\"139\"},{\"display\":\"Rector St - Trinity Pl (R, W)\",\"text\":\"Rector St - Trinity Pl (R, W)\",\"value\":\"R26\"},{\"display\":\"Richmond Valley (SI)\",\"text\":\"Richmond Valley (SI)\",\"value\":\"S13\"},{\"display\":\"Rockaway Av - Fulton St (C)\",\"text\":\"Rockaway Av - Fulton St (C)\",\"value\":\"A50\"},{\"display\":\"Rockaway Av - Livonia Av (2, 3)\",\"text\":\"Rockaway Av - Livonia Av (2, 3)\",\"value\":\"253\"},{\"display\":\"Rockaway Blvd (A)\",\"text\":\"Rockaway Blvd (A)\",\"value\":\"A61\"},{\"display\":\"Rockaway Park-Beach 116 St (H)\",\"text\":\"Rockaway Park-Beach 116 St (H)\",\"value\":\"H15\"},{\"display\":\"Roosevelt Island (M)\",\"text\":\"Roosevelt Island (M)\",\"value\":\"B06\"},{\"display\":\"Saratoga Av (2, 3)\",\"text\":\"Saratoga Av (2, 3)\",\"value\":\"252\"},{\"display\":\"Seneca Av (M)\",\"text\":\"Seneca Av (M)\",\"value\":\"M06\"},{\"display\":\"Sheepshead Bay (B, Q)\",\"text\":\"Sheepshead Bay (B, Q)\",\"value\":\"D39\"},{\"display\":\"Shepherd Av (C)\",\"text\":\"Shepherd Av (C)\",\"value\":\"A54\"},{\"display\":\"Simpson St (2, 5)\",\"text\":\"Simpson St (2, 5)\",\"value\":\"217\"},{\"display\":\"Smith-9 Sts (F, G)\",\"text\":\"Smith-9 Sts (F, G)\",\"value\":\"F22\"},{\"display\":\"South Ferry (1)\",\"text\":\"South Ferry (1)\",\"value\":\"142\"},{\"display\":\"Spring St - 6 Av (C, E)\",\"text\":\"Spring St - 6 Av (C, E)\",\"value\":\"A33\"},{\"display\":\"Spring St - Lafayette St (6, 6X)\",\"text\":\"Spring St - Lafayette St (6, 6X)\",\"value\":\"638\"},{\"display\":\"St George (SI)\",\"text\":\"St George (SI)\",\"value\":\"S31\"},{\"display\":\"St Lawrence Av (6)\",\"text\":\"St Lawrence Av (6)\",\"value\":\"609\"},{\"display\":\"Stapleton (SI)\",\"text\":\"Stapleton (SI)\",\"value\":\"S29\"},{\"display\":\"Steinway St (M, R)\",\"text\":\"Steinway St (M, R)\",\"value\":\"G19\"},{\"display\":\"Sterling St (2, 5)\",\"text\":\"Sterling St (2, 5)\",\"value\":\"242\"},{\"display\":\"Sutphin Blvd (F)\",\"text\":\"Sutphin Blvd (F)\",\"value\":\"F04\"},{\"display\":\"Sutphin Blvd-Archer Av-JFK Airport (E, J)\",\"text\":\"Sutphin Blvd-Archer Av-JFK Airport (E, J)\",\"value\":\"G06\"},{\"display\":\"Sutter Av (L)\",\"text\":\"Sutter Av (L)\",\"value\":\"L25\"},{\"display\":\"Sutter Av-Rutland Rd (2, 3)\",\"text\":\"Sutter Av-Rutland Rd (2, 3)\",\"value\":\"251\"},{\"display\":\"Times Sq-42 St - 7 Av Line (1, 2, 3)\",\"text\":\"Times Sq-42 St - 7 Av Line (1, 2, 3)\",\"value\":\"127\"},{\"display\":\"Times Sq-42 St - 42 St Shuttle (GS)\",\"text\":\"Times Sq-42 St - 42 St Shuttle (GS)\",\"value\":\"902\"},{\"display\":\"Times Sq-42 St - Broadway Line (N, Q, R, W)\",\"text\":\"Times Sq-42 St - Broadway Line (N, Q, R, W)\",\"value\":\"R16\"},{\"display\":\"Times Sq-42 St - Flushing Line (7, 7X)\",\"text\":\"Times Sq-42 St - Flushing Line (7, 7X)\",\"value\":\"725\"},{\"display\":\"Tompkinsville (SI)\",\"text\":\"Tompkinsville (SI)\",\"value\":\"S30\"},{\"display\":\"Tottenville (SI)\",\"text\":\"Tottenville (SI)\",\"value\":\"S09\"},{\"display\":\"Tremont Av (B, D)\",\"text\":\"Tremont Av (B, D)\",\"value\":\"D07\"},{\"display\":\"Union St (R, W)\",\"text\":\"Union St (R, W)\",\"value\":\"R32\"},{\"display\":\"Utica Av (A, C)\",\"text\":\"Utica Av (A, C)\",\"value\":\"A48\"},{\"display\":\"Van Cortlandt Park-242 St (1)\",\"text\":\"Van Cortlandt Park-242 St (1)\",\"value\":\"101\"},{\"display\":\"Van Siclen Av - Fulton St (J)\",\"text\":\"Van Siclen Av - Fulton St (J)\",\"value\":\"J23\"},{\"display\":\"Van Siclen Av - Livonia Av (2, 3)\",\"text\":\"Van Siclen Av - Livonia Av (2, 3)\",\"value\":\"256\"},{\"display\":\"Van Siclen Av - Pitkin Av (C)\",\"text\":\"Van Siclen Av - Pitkin Av (C)\",\"value\":\"A53\"},{\"display\":\"Vernon Blvd-Jackson Av (7, 7X)\",\"text\":\"Vernon Blvd-Jackson Av (7, 7X)\",\"value\":\"721\"},{\"display\":\"W 4 St-Washington Sq - Lower Level (B, D, F, M)\",\"text\":\"W 4 St-Washington Sq - Lower Level (B, D, F, M)\",\"value\":\"D20\"},{\"display\":\"W 4 St-Washington Sq - Upper Level (A, C, E)\",\"text\":\"W 4 St-Washington Sq - Upper Level (A, C, E)\",\"value\":\"A32\"},{\"display\":\"W 8 St-NY Aquarium (F, Q)\",\"text\":\"W 8 St-NY Aquarium (F, Q)\",\"value\":\"D42\"},{\"display\":\"WTC Cortlandt (1)\",\"text\":\"WTC Cortlandt (1)\",\"value\":\"138\"},{\"display\":\"Wakefield-241 St (2)\",\"text\":\"Wakefield-241 St (2)\",\"value\":\"201\"},{\"display\":\"Wall St - Broadway (4, 5)\",\"text\":\"Wall St - Broadway (4, 5)\",\"value\":\"419\"},{\"display\":\"Wall St - William St (2, 3)\",\"text\":\"Wall St - William St (2, 3)\",\"value\":\"230\"},{\"display\":\"West Farms Sq-E Tremont Av (2, 5)\",\"text\":\"West Farms Sq-E Tremont Av (2, 5)\",\"value\":\"214\"},{\"display\":\"Westchester Sq-E Tremont Av (6, 6X)\",\"text\":\"Westchester Sq-E Tremont Av (6, 6X)\",\"value\":\"604\"},{\"display\":\"Whitehall St-South Ferry (R, W)\",\"text\":\"Whitehall St-South Ferry (R, W)\",\"value\":\"R27\"},{\"display\":\"Whitlock Av (6)\",\"text\":\"Whitlock Av (6)\",\"value\":\"612\"},{\"display\":\"Wilson Av (L)\",\"text\":\"Wilson Av (L)\",\"value\":\"L20\"},{\"display\":\"Winthrop St (2, 5)\",\"text\":\"Winthrop St (2, 5)\",\"value\":\"243\"},{\"display\":\"Woodhaven Blvd - Jamaica Av (J)\",\"text\":\"Woodhaven Blvd - Jamaica Av (J)\",\"value\":\"J15\"},{\"display\":\"Woodhaven Blvd - Queens Blvd (M, R)\",\"text\":\"Woodhaven Blvd - Queens Blvd (M, R)\",\"value\":\"G11\"},{\"display\":\"Woodlawn (4)\",\"text\":\"Woodlawn (4)\",\"value\":\"401\"},{\"display\":\"Woodside-61 St (7, 7X)\",\"text\":\"Woodside-61 St (7, 7X)\",\"value\":\"712\"},{\"display\":\"World Trade Center (E)\",\"text\":\"World Trade Center (E)\",\"value\":\"E01\"},{\"display\":\"York St (F)\",\"text\":\"York St (F)\",\"value\":\"F18\"},{\"display\":\"Zerega Av (6, 6X)\",\"text\":\"Zerega Av (6, 6X)\",\"value\":\"606\"}]},{\"type\":\"dropdown\",\"id\":\"direction\",\"name\":\"Direction\",\"description\":\"Direction(s) of train depatures to be included\",\"icon\":\"compass\",\"default\":\"both\",\"options\":[{\"display\":\"Both\",\"text\":\"Both\",\"value\":\"both\"},{\"display\":\"Northbound\",\"text\":\"Northbound\",\"value\":\"north\"},{\"display\":\"Southbound\",\"text\":\"Southbound\",\"value\":\"south\"}]},{\"type\":\"typeahead\",\"id\":\"travel_time\",\"name\":\"Travel Time to Station\",\"description\":\"Amount of time it takes to reach this station (trains with earlier arrival times will be hidden).\",\"icon\":\"hourglass\",\"handler\":\"travel_time$travel_time_search\"},{\"type\":\"dropdown\",\"id\":\"third_time\",\"name\":\"Show Third Time Threshold\",\"description\":\"Minimum difference in first and second arrival times to show 3rd arrival time.\",\"icon\":\"hourglass\",\"default\":\"0\",\"options\":[{\"display\":\"Never\",\"text\":\"Never\",\"value\":\"0\"},{\"display\":\"3 mins\",\"text\":\"3 mins\",\"value\":\"3\"},{\"display\":\"5 mins\",\"text\":\"5 mins\",\"value\":\"5\"},{\"display\":\"7 mins\",\"text\":\"7 mins\",\"value\":\"7\"},{\"display\":\"10 mins\",\"text\":\"10 mins\",\"value\":\"10\"},{\"display\":\"Always\",\"text\":\"Always\",\"value\":\"1000\"}]},{\"type\":\"dropdown\",\"id\":\"order_by\",\"name\":\"Order By\",\"description\":\"The display order of train routes\",\"icon\":\"sort\",\"default\":\"eta\",\"options\":[{\"display\":\"Next Train ETA\",\"text\":\"Next Train ETA\",\"value\":\"eta\"},{\"display\":\"Alphabetical Order\",\"text\":\"Alphabetical Order\",\"value\":\"alphabetical\"}]},{\"type\":\"text\",\"id\":\"include_lines\",\"name\":\"Filter Lines\",\"description\":\"Only show certain lines (comma separated)\",\"icon\":\"route\"}]}",
+    "packageName": "goodservice"
+  },
+  {
+    "name": "Ship Nearby",
+    "summary": "Display ships in a bounding box",
+    "desc": "Shows vessel names within a geographic bounding box using Marinesia.com.",
+    "author": "tavdog",
+    "tags": [
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "fileName": "shipsnearby",
+    "schema": "{\"version\":\"1\",\"schema\":[{\"type\":\"text\",\"id\":\"api_key\",\"name\":\"API Key\",\"description\":\"Your API key from marinesia.com\",\"icon\":\"key\",\"secret\":true},{\"type\":\"text\",\"id\":\"bbox\",\"name\":\"Bounding Box\",\"description\":\"Format: long_min,lat_min,long_max,lat_max Try use https://boundingbox.klokantech.com/\",\"icon\":\"mapPin\",\"default\":\"105,-7.5,107,-5\"},{\"type\":\"dropdown\",\"id\":\"line2\",\"name\":\"Line 2 Info\",\"description\":\"Information to display on the second line\",\"icon\":\"alignLeft\",\"default\":\"speed_course\",\"options\":[{\"display\":\"Auto\",\"text\":\"Auto\",\"value\":\"auto\"},{\"display\":\"Speed & Course\",\"text\":\"Speed & Course\",\"value\":\"speed_course\"},{\"display\":\"Nav Status\",\"text\":\"Nav Status\",\"value\":\"nav_status\"},{\"display\":\"Vessel Type\",\"text\":\"Vessel Type\",\"value\":\"vessel_type\"},{\"display\":\"Flag\",\"text\":\"Flag\",\"value\":\"flag\"},{\"display\":\"IMO\",\"text\":\"IMO\",\"value\":\"imo\"},{\"display\":\"MMSI\",\"text\":\"MMSI\",\"value\":\"mmsi\"},{\"display\":\"Dimensions\",\"text\":\"Dimensions\",\"value\":\"dimensions\"},{\"display\":\"Coordinates\",\"text\":\"Coordinates\",\"value\":\"coordinates\"},{\"display\":\"Heading\",\"text\":\"Heading\",\"value\":\"heading\"},{\"display\":\"Draft\",\"text\":\"Draft\",\"value\":\"draught\"},{\"display\":\"Destination\",\"text\":\"Destination\",\"value\":\"destination\"},{\"display\":\"ETA\",\"text\":\"ETA\",\"value\":\"eta\"},{\"display\":\"None\",\"text\":\"None\",\"value\":\"none\"}]},{\"type\":\"dropdown\",\"id\":\"line3\",\"name\":\"Line 3 Info\",\"description\":\"Information to display on the third line\",\"icon\":\"alignLeft\",\"default\":\"nav_status\",\"options\":[{\"display\":\"Auto\",\"text\":\"Auto\",\"value\":\"auto\"},{\"display\":\"Speed & Course\",\"text\":\"Speed & Course\",\"value\":\"speed_course\"},{\"display\":\"Nav Status\",\"text\":\"Nav Status\",\"value\":\"nav_status\"},{\"display\":\"Vessel Type\",\"text\":\"Vessel Type\",\"value\":\"vessel_type\"},{\"display\":\"Flag\",\"text\":\"Flag\",\"value\":\"flag\"},{\"display\":\"IMO\",\"text\":\"IMO\",\"value\":\"imo\"},{\"display\":\"MMSI\",\"text\":\"MMSI\",\"value\":\"mmsi\"},{\"display\":\"Dimensions\",\"text\":\"Dimensions\",\"value\":\"dimensions\"},{\"display\":\"Coordinates\",\"text\":\"Coordinates\",\"value\":\"coordinates\"},{\"display\":\"Heading\",\"text\":\"Heading\",\"value\":\"heading\"},{\"display\":\"Draft\",\"text\":\"Draft\",\"value\":\"draught\"},{\"display\":\"Destination\",\"text\":\"Destination\",\"value\":\"destination\"},{\"display\":\"ETA\",\"text\":\"ETA\",\"value\":\"eta\"},{\"display\":\"None\",\"text\":\"None\",\"value\":\"none\"}]}]}",
+    "packageName": "shipsnearby"
+  },
+  {
+    "name": "Date Progress",
+    "summary": "Shows date as percentages",
+    "desc": "Shows todays date as colorful progressbars, you can show the progress of the current day, month and year.",
+    "author": "possan",
+    "tags": [
+      "calendar"
+    ],
+    "isOfficialApplet": false,
+    "fileName": "date_progress",
+    "schema": "{\"version\":\"1\",\"schema\":[{\"type\":\"location\",\"id\":\"location\",\"name\":\"Location\",\"description\":\"Location for which to display time.\",\"icon\":\"locationDot\"},{\"type\":\"onoff\",\"id\":\"show_day\",\"name\":\"Show day progress\",\"description\":\"Whether to show the progress of the current day\",\"icon\":\"eye\",\"default\":\"true\"},{\"type\":\"onoff\",\"id\":\"show_month\",\"name\":\"Show month progress\",\"description\":\"Whether to show the progress of the current month.\",\"icon\":\"eye\",\"default\":\"true\"},{\"type\":\"onoff\",\"id\":\"show_year\",\"name\":\"Show year progress\",\"description\":\"Whether to show the progress of the current year.\",\"icon\":\"eye\",\"default\":\"true\"},{\"type\":\"onoff\",\"id\":\"show_labels\",\"name\":\"Show labels\",\"description\":\"Whether to show labels next to the progress bars.\",\"icon\":\"textSlash\",\"default\":\"true\"},{\"type\":\"onoff\",\"id\":\"show_values\",\"name\":\"Show percentages\",\"description\":\"Whether to show percentages next to the progress bars.\",\"icon\":\"percent\",\"default\":\"true\"},{\"type\":\"dropdown\",\"id\":\"color_year\",\"name\":\"Year progress color\",\"description\":\"The color of the year progress bar.\",\"icon\":\"palette\",\"default\":\"#0ff\",\"options\":[{\"display\":\"White\",\"text\":\"White\",\"value\":\"#fff\"},{\"display\":\"Red\",\"text\":\"Red\",\"value\":\"#f00\"},{\"display\":\"Green\",\"text\":\"Green\",\"value\":\"#0f0\"},{\"display\":\"Blue\",\"text\":\"Blue\",\"value\":\"#00f\"},{\"display\":\"Yellow\",\"text\":\"Yellow\",\"value\":\"#ff0\"},{\"display\":\"Cyan\",\"text\":\"Cyan\",\"value\":\"#0ff\"},{\"display\":\"Magenta\",\"text\":\"Magenta\",\"value\":\"#f0f\"}]},{\"type\":\"dropdown\",\"id\":\"color_month\",\"name\":\"Month progress color\",\"description\":\"The color of the month progress bar.\",\"icon\":\"palette\",\"default\":\"#0f0\",\"options\":[{\"display\":\"White\",\"text\":\"White\",\"value\":\"#fff\"},{\"display\":\"Red\",\"text\":\"Red\",\"value\":\"#f00\"},{\"display\":\"Green\",\"text\":\"Green\",\"value\":\"#0f0\"},{\"display\":\"Blue\",\"text\":\"Blue\",\"value\":\"#00f\"},{\"display\":\"Yellow\",\"text\":\"Yellow\",\"value\":\"#ff0\"},{\"display\":\"Cyan\",\"text\":\"Cyan\",\"value\":\"#0ff\"},{\"display\":\"Magenta\",\"text\":\"Magenta\",\"value\":\"#f0f\"}]},{\"type\":\"dropdown\",\"id\":\"color_day\",\"name\":\"Day progress color\",\"description\":\"The color of the day progress bar.\",\"icon\":\"palette\",\"default\":\"#f00\",\"options\":[{\"display\":\"White\",\"text\":\"White\",\"value\":\"#fff\"},{\"display\":\"Red\",\"text\":\"Red\",\"value\":\"#f00\"},{\"display\":\"Green\",\"text\":\"Green\",\"value\":\"#0f0\"},{\"display\":\"Blue\",\"text\":\"Blue\",\"value\":\"#00f\"},{\"display\":\"Yellow\",\"text\":\"Yellow\",\"value\":\"#ff0\"},{\"display\":\"Cyan\",\"text\":\"Cyan\",\"value\":\"#0ff\"},{\"display\":\"Magenta\",\"text\":\"Magenta\",\"value\":\"#f0f\"}]},{\"type\":\"onoff\",\"id\":\"custom_day\",\"name\":\"Custom Day progress interval\",\"description\":\"Use custom start and end times for day progress bar.\",\"icon\":\"gear\",\"default\":\"false\"},{\"type\":\"dropdown\",\"id\":\"start_hour\",\"name\":\"Day progress start time (hour)\",\"description\":\"The start time of the day progress bar (hour).\",\"icon\":\"clock\",\"default\":\"0\",\"options\":[{\"display\":\"0\",\"text\":\"0\",\"value\":\"0\"},{\"display\":\"1\",\"text\":\"1\",\"value\":\"1\"},{\"display\":\"2\",\"text\":\"2\",\"value\":\"2\"},{\"display\":\"3\",\"text\":\"3\",\"value\":\"3\"},{\"display\":\"4\",\"text\":\"4\",\"value\":\"4\"},{\"display\":\"5\",\"text\":\"5\",\"value\":\"5\"},{\"display\":\"6\",\"text\":\"6\",\"value\":\"6\"},{\"display\":\"7\",\"text\":\"7\",\"value\":\"7\"},{\"display\":\"8\",\"text\":\"8\",\"value\":\"8\"},{\"display\":\"9\",\"text\":\"9\",\"value\":\"9\"},{\"display\":\"10\",\"text\":\"10\",\"value\":\"10\"},{\"display\":\"11\",\"text\":\"11\",\"value\":\"11\"},{\"display\":\"12\",\"text\":\"12\",\"value\":\"12\"},{\"display\":\"13\",\"text\":\"13\",\"value\":\"13\"},{\"display\":\"14\",\"text\":\"14\",\"value\":\"14\"},{\"display\":\"15\",\"text\":\"15\",\"value\":\"15\"},{\"display\":\"16\",\"text\":\"16\",\"value\":\"16\"},{\"display\":\"17\",\"text\":\"17\",\"value\":\"17\"},{\"display\":\"18\",\"text\":\"18\",\"value\":\"18\"},{\"display\":\"19\",\"text\":\"19\",\"value\":\"19\"},{\"display\":\"20\",\"text\":\"20\",\"value\":\"20\"},{\"display\":\"21\",\"text\":\"21\",\"value\":\"21\"},{\"display\":\"22\",\"text\":\"22\",\"value\":\"22\"},{\"display\":\"23\",\"text\":\"23\",\"value\":\"23\"}]},{\"type\":\"dropdown\",\"id\":\"start_minute\",\"name\":\"Day progress start time (minute)\",\"description\":\"The start time of the day progress bar (minute).\",\"icon\":\"clock\",\"default\":\"0\",\"options\":[{\"display\":\"0\",\"text\":\"0\",\"value\":\"0\"},{\"display\":\"1\",\"text\":\"1\",\"value\":\"1\"},{\"display\":\"2\",\"text\":\"2\",\"value\":\"2\"},{\"display\":\"3\",\"text\":\"3\",\"value\":\"3\"},{\"display\":\"4\",\"text\":\"4\",\"value\":\"4\"},{\"display\":\"5\",\"text\":\"5\",\"value\":\"5\"},{\"display\":\"6\",\"text\":\"6\",\"value\":\"6\"},{\"display\":\"7\",\"text\":\"7\",\"value\":\"7\"},{\"display\":\"8\",\"text\":\"8\",\"value\":\"8\"},{\"display\":\"9\",\"text\":\"9\",\"value\":\"9\"},{\"display\":\"10\",\"text\":\"10\",\"value\":\"10\"},{\"display\":\"11\",\"text\":\"11\",\"value\":\"11\"},{\"display\":\"12\",\"text\":\"12\",\"value\":\"12\"},{\"display\":\"13\",\"text\":\"13\",\"value\":\"13\"},{\"display\":\"14\",\"text\":\"14\",\"value\":\"14\"},{\"display\":\"15\",\"text\":\"15\",\"value\":\"15\"},{\"display\":\"16\",\"text\":\"16\",\"value\":\"16\"},{\"display\":\"17\",\"text\":\"17\",\"value\":\"17\"},{\"display\":\"18\",\"text\":\"18\",\"value\":\"18\"},{\"display\":\"19\",\"text\":\"19\",\"value\":\"19\"},{\"display\":\"20\",\"text\":\"20\",\"value\":\"20\"},{\"display\":\"21\",\"text\":\"21\",\"value\":\"21\"},{\"display\":\"22\",\"text\":\"22\",\"value\":\"22\"},{\"display\":\"23\",\"text\":\"23\",\"value\":\"23\"},{\"display\":\"24\",\"text\":\"24\",\"value\":\"24\"},{\"display\":\"25\",\"text\":\"25\",\"value\":\"25\"},{\"display\":\"26\",\"text\":\"26\",\"value\":\"26\"},{\"display\":\"27\",\"text\":\"27\",\"value\":\"27\"},{\"display\":\"28\",\"text\":\"28\",\"value\":\"28\"},{\"display\":\"29\",\"text\":\"29\",\"value\":\"29\"},{\"display\":\"30\",\"text\":\"30\",\"value\":\"30\"},{\"display\":\"31\",\"text\":\"31\",\"value\":\"31\"},{\"display\":\"32\",\"text\":\"32\",\"value\":\"32\"},{\"display\":\"33\",\"text\":\"33\",\"value\":\"33\"},{\"display\":\"34\",\"text\":\"34\",\"value\":\"34\"},{\"display\":\"35\",\"text\":\"35\",\"value\":\"35\"},{\"display\":\"36\",\"text\":\"36\",\"value\":\"36\"},{\"display\":\"37\",\"text\":\"37\",\"value\":\"37\"},{\"display\":\"38\",\"text\":\"38\",\"value\":\"38\"},{\"display\":\"39\",\"text\":\"39\",\"value\":\"39\"},{\"display\":\"40\",\"text\":\"40\",\"value\":\"40\"},{\"display\":\"41\",\"text\":\"41\",\"value\":\"41\"},{\"display\":\"42\",\"text\":\"42\",\"value\":\"42\"},{\"display\":\"43\",\"text\":\"43\",\"value\":\"43\"},{\"display\":\"44\",\"text\":\"44\",\"value\":\"44\"},{\"display\":\"45\",\"text\":\"45\",\"value\":\"45\"},{\"display\":\"46\",\"text\":\"46\",\"value\":\"46\"},{\"display\":\"47\",\"text\":\"47\",\"value\":\"47\"},{\"display\":\"48\",\"text\":\"48\",\"value\":\"48\"},{\"display\":\"49\",\"text\":\"49\",\"value\":\"49\"},{\"display\":\"50\",\"text\":\"50\",\"value\":\"50\"},{\"display\":\"51\",\"text\":\"51\",\"value\":\"51\"},{\"display\":\"52\",\"text\":\"52\",\"value\":\"52\"},{\"display\":\"53\",\"text\":\"53\",\"value\":\"53\"},{\"display\":\"54\",\"text\":\"54\",\"value\":\"54\"},{\"display\":\"55\",\"text\":\"55\",\"value\":\"55\"},{\"display\":\"56\",\"text\":\"56\",\"value\":\"56\"},{\"display\":\"57\",\"text\":\"57\",\"value\":\"57\"},{\"display\":\"58\",\"text\":\"58\",\"value\":\"58\"},{\"display\":\"59\",\"text\":\"59\",\"value\":\"59\"}]},{\"type\":\"dropdown\",\"id\":\"end_hour\",\"name\":\"Day progress end time (hour)\",\"description\":\"The end time of the day progress bar (hour).\",\"icon\":\"clock\",\"default\":\"0\",\"options\":[{\"display\":\"0\",\"text\":\"0\",\"value\":\"0\"},{\"display\":\"1\",\"text\":\"1\",\"value\":\"1\"},{\"display\":\"2\",\"text\":\"2\",\"value\":\"2\"},{\"display\":\"3\",\"text\":\"3\",\"value\":\"3\"},{\"display\":\"4\",\"text\":\"4\",\"value\":\"4\"},{\"display\":\"5\",\"text\":\"5\",\"value\":\"5\"},{\"display\":\"6\",\"text\":\"6\",\"value\":\"6\"},{\"display\":\"7\",\"text\":\"7\",\"value\":\"7\"},{\"display\":\"8\",\"text\":\"8\",\"value\":\"8\"},{\"display\":\"9\",\"text\":\"9\",\"value\":\"9\"},{\"display\":\"10\",\"text\":\"10\",\"value\":\"10\"},{\"display\":\"11\",\"text\":\"11\",\"value\":\"11\"},{\"display\":\"12\",\"text\":\"12\",\"value\":\"12\"},{\"display\":\"13\",\"text\":\"13\",\"value\":\"13\"},{\"display\":\"14\",\"text\":\"14\",\"value\":\"14\"},{\"display\":\"15\",\"text\":\"15\",\"value\":\"15\"},{\"display\":\"16\",\"text\":\"16\",\"value\":\"16\"},{\"display\":\"17\",\"text\":\"17\",\"value\":\"17\"},{\"display\":\"18\",\"text\":\"18\",\"value\":\"18\"},{\"display\":\"19\",\"text\":\"19\",\"value\":\"19\"},{\"display\":\"20\",\"text\":\"20\",\"value\":\"20\"},{\"display\":\"21\",\"text\":\"21\",\"value\":\"21\"},{\"display\":\"22\",\"text\":\"22\",\"value\":\"22\"},{\"display\":\"23\",\"text\":\"23\",\"value\":\"23\"}]},{\"type\":\"dropdown\",\"id\":\"end_minute\",\"name\":\"Day progress end time (minute)\",\"description\":\"The end time of the day progress bar (minute).\",\"icon\":\"clock\",\"default\":\"0\",\"options\":[{\"display\":\"0\",\"text\":\"0\",\"value\":\"0\"},{\"display\":\"1\",\"text\":\"1\",\"value\":\"1\"},{\"display\":\"2\",\"text\":\"2\",\"value\":\"2\"},{\"display\":\"3\",\"text\":\"3\",\"value\":\"3\"},{\"display\":\"4\",\"text\":\"4\",\"value\":\"4\"},{\"display\":\"5\",\"text\":\"5\",\"value\":\"5\"},{\"display\":\"6\",\"text\":\"6\",\"value\":\"6\"},{\"display\":\"7\",\"text\":\"7\",\"value\":\"7\"},{\"display\":\"8\",\"text\":\"8\",\"value\":\"8\"},{\"display\":\"9\",\"text\":\"9\",\"value\":\"9\"},{\"display\":\"10\",\"text\":\"10\",\"value\":\"10\"},{\"display\":\"11\",\"text\":\"11\",\"value\":\"11\"},{\"display\":\"12\",\"text\":\"12\",\"value\":\"12\"},{\"display\":\"13\",\"text\":\"13\",\"value\":\"13\"},{\"display\":\"14\",\"text\":\"14\",\"value\":\"14\"},{\"display\":\"15\",\"text\":\"15\",\"value\":\"15\"},{\"display\":\"16\",\"text\":\"16\",\"value\":\"16\"},{\"display\":\"17\",\"text\":\"17\",\"value\":\"17\"},{\"display\":\"18\",\"text\":\"18\",\"value\":\"18\"},{\"display\":\"19\",\"text\":\"19\",\"value\":\"19\"},{\"display\":\"20\",\"text\":\"20\",\"value\":\"20\"},{\"display\":\"21\",\"text\":\"21\",\"value\":\"21\"},{\"display\":\"22\",\"text\":\"22\",\"value\":\"22\"},{\"display\":\"23\",\"text\":\"23\",\"value\":\"23\"},{\"display\":\"24\",\"text\":\"24\",\"value\":\"24\"},{\"display\":\"25\",\"text\":\"25\",\"value\":\"25\"},{\"display\":\"26\",\"text\":\"26\",\"value\":\"26\"},{\"display\":\"27\",\"text\":\"27\",\"value\":\"27\"},{\"display\":\"28\",\"text\":\"28\",\"value\":\"28\"},{\"display\":\"29\",\"text\":\"29\",\"value\":\"29\"},{\"display\":\"30\",\"text\":\"30\",\"value\":\"30\"},{\"display\":\"31\",\"text\":\"31\",\"value\":\"31\"},{\"display\":\"32\",\"text\":\"32\",\"value\":\"32\"},{\"display\":\"33\",\"text\":\"33\",\"value\":\"33\"},{\"display\":\"34\",\"text\":\"34\",\"value\":\"34\"},{\"display\":\"35\",\"text\":\"35\",\"value\":\"35\"},{\"display\":\"36\",\"text\":\"36\",\"value\":\"36\"},{\"display\":\"37\",\"text\":\"37\",\"value\":\"37\"},{\"display\":\"38\",\"text\":\"38\",\"value\":\"38\"},{\"display\":\"39\",\"text\":\"39\",\"value\":\"39\"},{\"display\":\"40\",\"text\":\"40\",\"value\":\"40\"},{\"display\":\"41\",\"text\":\"41\",\"value\":\"41\"},{\"display\":\"42\",\"text\":\"42\",\"value\":\"42\"},{\"display\":\"43\",\"text\":\"43\",\"value\":\"43\"},{\"display\":\"44\",\"text\":\"44\",\"value\":\"44\"},{\"display\":\"45\",\"text\":\"45\",\"value\":\"45\"},{\"display\":\"46\",\"text\":\"46\",\"value\":\"46\"},{\"display\":\"47\",\"text\":\"47\",\"value\":\"47\"},{\"display\":\"48\",\"text\":\"48\",\"value\":\"48\"},{\"display\":\"49\",\"text\":\"49\",\"value\":\"49\"},{\"display\":\"50\",\"text\":\"50\",\"value\":\"50\"},{\"display\":\"51\",\"text\":\"51\",\"value\":\"51\"},{\"display\":\"52\",\"text\":\"52\",\"value\":\"52\"},{\"display\":\"53\",\"text\":\"53\",\"value\":\"53\"},{\"display\":\"54\",\"text\":\"54\",\"value\":\"54\"},{\"display\":\"55\",\"text\":\"55\",\"value\":\"55\"},{\"display\":\"56\",\"text\":\"56\",\"value\":\"56\"},{\"display\":\"57\",\"text\":\"57\",\"value\":\"57\"},{\"display\":\"58\",\"text\":\"58\",\"value\":\"58\"},{\"display\":\"59\",\"text\":\"59\",\"value\":\"59\"}]}]}",
+    "packageName": "dateprogress"
+  },
+  {
+    "name": "Nyan Cat",
+    "summary": "Nyan Cat Animation",
+    "desc": "An animated cartoon cat with a Pop-Tart for a torso.",
+    "author": "Mack Ward",
+    "tags": [
+      "art",
+      "entertainment",
+      "meme"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "nyancat",
+    "fileName": "nyan_cat"
+  },
+  {
+    "name": "DailyKanji",
+    "summary": "Displays a random Kanji",
+    "desc": "Displays a random Kanji character with translation.",
+    "author": "Robert Ison",
+    "tags": [
+      "education"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "dailykanji",
+    "fileName": "dailykanji"
+  },
+  {
+    "name": "Is It Christmas",
+    "summary": "Is it christmas: yes/no",
+    "desc": "Is it christmas: yes/no.",
+    "author": "Austin Fonacier",
+    "tags": [
+      "calendar",
+      "religion"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "isitchristmas",
+    "fileName": "is_it_christmas"
+  },
+  {
+    "name": "Arcade Classics",
+    "summary": "Classic arcade animations",
+    "desc": "Animations from classic arcade video games.",
+    "author": "Steve Otteson",
+    "tags": [
+      "gaming",
+      "art"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "arcadeclassics",
+    "fileName": "arcade_classics"
+  },
+  {
+    "name": "Dryer",
+    "summary": "Notification: dryer",
+    "desc": "Displays a notification that a dryer is done.",
+    "author": "savdagod",
+    "tags": [
+      "smart-home",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "dryer",
+    "fileName": "dryer"
+  },
+  {
+    "name": "Super Mario Kart",
+    "summary": "Super Mario Kart Animation",
+    "desc": "Animated characters & items from the 1992 Super Mario Kart game.",
+    "author": "Kevin Connell",
+    "tags": [
+      "gaming",
+      "art"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "supermariokart",
+    "fileName": "super_mario_kart"
+  },
+  {
+    "name": "Steam",
+    "summary": "Steam Now Playing",
+    "desc": "Displays current game or previous games. Use https://steamid.xyz/ to find your 17 digit Steam ID.",
+    "author": "Jeremy Tavener",
+    "tags": [
+      "gaming",
+      "now-playing"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "steam",
+    "fileName": "steam"
+  },
+  {
+    "name": "Kickstarter",
+    "summary": "Kickstarter project status",
+    "desc": "Display the total amount raised and the number of backers for a Kickstarter project. The project must be publicly visible.",
+    "author": "sethvargo",
+    "tags": [
+      "finance",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "kickstarter",
+    "fileName": "kickstarter"
+  },
+  {
+    "name": "DataDog Monitors",
+    "summary": "View your DataDog Monitors",
+    "desc": "By default displays any monitors that are in the status alert but allows for customizing the query yourself based on DataDog's syntax.",
+    "author": "Cavallando",
+    "tags": [
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "datadogmonitors",
+    "fileName": "datadog_monitors"
+  },
+  {
+    "name": "NOS",
+    "summary": "Laatste nieuws van NOS",
+    "desc": "Laat een willekeurig recente nieuwsbericht zien van de website nos.nl.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "news"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "nos",
+    "fileName": "nos"
+  },
+  {
+    "name": "Tankerkönig",
+    "summary": "Near gas stations (Germany)",
+    "desc": "This app displays some nearby cheap gas stations in Germany (Tankerkönig) based on your location.",
+    "author": "dev-manuel",
+    "tags": [
+      "tracking",
+      "finance",
+      "productivity"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "tankerkoenig",
+    "fileName": "tankerkoenig"
+  },
+  {
+    "name": "Random Recipe",
+    "summary": "Get a random recipe idea",
+    "desc": "Display a random recipe from themealdb.com.",
+    "author": "noahpodgurski",
+    "tags": [
+      "food"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "randomrecipe",
+    "fileName": "random_recipe"
+  },
+  {
+    "name": "USDebtClock",
+    "summary": "Displays the US total debt",
+    "desc": "Displays the total debt by the United States of America in dollars.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "finance"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "usdebtclock",
+    "fileName": "usdebtclock"
+  },
+  {
+    "name": "WhosThatPokemon?",
+    "summary": "Pokemon Quiz Game",
+    "desc": "Test your Pokemon Master knowledge with this rendition of \"Who's That Pokemon?\". Turn off classic mode to crank up the difficulty. Set your Tidbyt speed to ensure the animation takes up exactly half the time is has displayed.",
+    "author": "Nicole Brooks",
+    "tags": [
+      "gaming",
+      "pokemon"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "whosthatpokemon",
+    "fileName": "whosthatpokemon"
+  },
+  {
+    "name": "BtcFagi",
+    "summary": "BTC Fear And Greed Index",
+    "desc": "Shows the Fear And Greed Index for Bitcoin.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "bitcoin",
+      "finance"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "btcfagi",
+    "fileName": "btcfagi"
+  },
+  {
+    "name": "Starfield",
+    "summary": "Fly through a starfield",
+    "desc": "This app simulates flying through a starfield.",
+    "author": "gabe565",
+    "tags": [
+      "astronomy",
+      "art"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "starfield",
+    "fileName": "starfield"
+  },
+  {
+    "name": "Homer Hiding",
+    "summary": "A simple gif of Homer hide",
+    "desc": "This iconic awkward Simpsons moment appears in season five, episode 16, “Homer Loves Flanders”; it’s Homer’s reaction to finding out that the Flanders family wants some non-Homer time to themselves.",
+    "author": "masonwongcs",
+    "tags": [
+      "meme"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "homerhiding",
+    "fileName": "homer_hiding"
+  },
+  {
+    "name": "Doorbell",
+    "summary": "Notification: doorbell",
+    "desc": "Displays a notification that a doorbell is ringing.",
+    "author": "savdagod",
+    "tags": [
+      "smart-home",
+      "alert"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "doorbell",
+    "fileName": "doorbell"
+  },
+  {
+    "name": "Zapier",
+    "summary": "Integrate with Zapier",
+    "desc": "The Zapier app allows you to trigger information on your Tidbyt from a Zap.",
+    "author": "Tidbyt",
+    "tags": [
+      "smart-home"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "zapier",
+    "fileName": "zapier"
+  },
+  {
+    "name": "Phase Of Moon",
+    "summary": "Shows the phase of the moon",
+    "desc": "Shows the current phase of the moon.",
+    "author": "Alan Fleming",
+    "tags": [
+      "weather",
+      "astronomy",
+      "clock"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "phaseofmoon",
+    "fileName": "phase_of_moon"
+  },
+  {
+    "name": "Noderunners",
+    "summary": "Current song at Noderunners",
+    "desc": "Shows the current song what is playing on Noderunners Radio.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "now-playing"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "noderunners",
+    "fileName": "noderunners"
+  },
+  {
+    "name": "Chess Viewer",
+    "summary": "Shows Active Chess Games",
+    "desc": "This app shows a visual representation of currently active chess games for a given user on Chess.com.",
+    "author": "Neal Wright",
+    "tags": [
+      "gaming",
+      "now-playing"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "chessviewer",
+    "fileName": "chess_viewer"
+  },
+  {
+    "name": "Spotify",
+    "summary": "Current track",
+    "desc": "Display your currently playing Spotify track with album art, progress bar, and playback info. Requires a one-time OAuth setup to obtain a refresh token - see instructions in spotify.star.",
+    "author": "gshepperd",
+    "tags": [
+      "now-playing"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "spotify",
+    "fileName": "spotify"
+  },
+  {
+    "name": "Updown.io",
+    "summary": "Simple website monitoring",
+    "desc": "Updown.io checks your website's status by periodically sending an HTTP request to the URL of your choice and notifies you when your website is not responding correctly.",
+    "author": "jcarbaugh",
+    "tags": [
+      "devs",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "updownio",
+    "fileName": "updownio"
+  },
+  {
+    "name": "Next UFC",
+    "summary": "Next UFC event",
+    "desc": "Shows next upcoming UFC event with date and time.",
+    "author": "Stephen So",
+    "tags": [
+      "sport"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "nextufc",
+    "fileName": "next_ufc"
+  },
+  {
+    "name": "Gitlab Pipeline",
+    "summary": "Shows Pipeline status",
+    "desc": "Shows the status of the most recent pipeline in a selected Gitlab project.",
+    "author": "Sven Ringger",
+    "tags": [
+      "devs",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "gitlabpipeline",
+    "fileName": "gitlabpipeline"
+  },
+  {
+    "name": "Hashrate",
+    "summary": "Bitcoin's hashrate",
+    "desc": "Plotting the hashrate of Bitcoin.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "bitcoin"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "hashrate",
+    "fileName": "hashrate"
+  },
+  {
+    "name": "Tetris Clock",
+    "summary": "Falling block clock",
+    "desc": "Shows the current time by animating falling blocks. Highly customizable.",
+    "author": "MarkGamed7794",
+    "tags": [
+      "clock",
+      "gaming"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "tetrisclock",
+    "fileName": "tetris_clock"
+  },
+  {
+    "name": "EuroMillions",
+    "summary": "EuroMillions results",
+    "desc": "Results for the most recent draw of the EuroMillions transnational lottery.",
+    "author": "dinosaursrarr",
+    "tags": [
+      "entertainment"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "euromillions",
+    "fileName": "euromillions"
+  },
+  {
+    "name": "Sky News",
+    "summary": "Latest news",
+    "desc": "The current top story (and a short blurb) from SkyNews.com.",
+    "author": "meejle",
+    "tags": [
+      "news"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "skynews",
+    "fileName": "skynews"
+  },
+  {
+    "name": "Fortnite Store",
+    "summary": "See the Fortnite shop",
+    "desc": "See items currently featured in the Fortnite shop.",
+    "author": "naominori",
+    "tags": [
+      "gaming"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "fortnitestore",
+    "fileName": "fortnite_store"
+  },
+  {
+    "name": "BtcMoscowTime",
+    "summary": "Shows satoshis per USD",
+    "desc": "Shows how many satoshis for 1 USD.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "bitcoin"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "btcmoscowtime",
+    "fileName": "btcmoscowtime"
+  },
+  {
+    "name": "Islamic Prayer",
+    "summary": "Islamic prayer times",
+    "desc": "Islamic prayer times for the day.",
+    "author": "Austin Fonacier",
+    "tags": [
+      "clock",
+      "religion"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "islamicprayer",
+    "fileName": "islamic_prayer"
+  },
+  {
+    "name": "Nu.nl",
+    "summary": "Latest news from nu.nl",
+    "desc": "Shows random one of the latest news items from the Dutch website nu.nl.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "news"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "nunl",
+    "fileName": "nunl"
+  },
+  {
+    "name": "Virtual Pets",
+    "summary": "Virtual pets",
+    "desc": "Choose and name your own pet while watching the environment change with the seasons and time of day!",
+    "author": "frame-shift",
+    "tags": [
+      "animals",
+      "entertainment"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "virtualpets",
+    "fileName": "virtual_pets"
+  },
+  {
+    "name": "NES Clock",
+    "summary": "NES Game Themed Clock",
+    "desc": "Short animations of various Nintendo characters with a background clock.",
+    "author": "hx009",
+    "tags": [
+      "clock",
+      "gaming"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "nesclock",
+    "fileName": "nes_clock"
+  },
+  {
+    "name": "Guardian News",
+    "summary": "Latest news",
+    "desc": "Show the latest Guardian top story from your preferred Edition.",
+    "author": "meejle",
+    "tags": [
+      "news"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "guardiannews",
+    "fileName": "guardian_news"
+  },
+  {
+    "name": "LastFM Stats",
+    "summary": "Displays stats from Last.fm",
+    "desc": "Displays the top artist and track for a last.fm user over a given period of time.",
+    "author": "skinner452",
+    "tags": [
+      "now-playing"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "lastfmstats",
+    "fileName": "lastfmstats"
+  },
+  {
+    "name": "Earthquake Map",
+    "summary": "Map of global earthquakes",
+    "desc": "Display a map of earthquakes based on USGS data (v0.2.5).",
+    "author": "Brian McLaughlin (SpinStabilized)",
+    "tags": [
+      "tracking",
+      "weather",
+      "news"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "earthquakemap",
+    "fileName": "earthquake_map"
+  },
+  {
+    "name": "MotoGP",
+    "summary": "Display MotoGP schedule",
+    "desc": "Display MotoGP racing schedule and standings.",
+    "author": "adilansari",
+    "tags": [
+      "sport"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "motogp",
+    "fileName": "motogp"
+  },
+  {
+    "name": "Mens Soccer",
+    "summary": "Mens Soccer scores",
+    "desc": "Shows upcoming games, current score, date and time of game for selected league / tournament.",
+    "author": "jvivona",
+    "tags": [
+      "sport"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "soccermens",
+    "fileName": "soccermens"
+  },
+  {
+    "name": "Dutch Fuzzy Clock",
+    "summary": "Dutch readable time",
+    "desc": "Display the time in Dutch, human-readable way.",
+    "author": "Remy Blok",
+    "tags": [
+      "clock"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "dutchfuzzyclock",
+    "fileName": "dutch_fuzzy_clock"
+  },
+  {
+    "name": "Roomba",
+    "summary": "Shows status of Roomba",
+    "desc": "Shows status of Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc.) Require setting up a local server to host the data.",
+    "author": "noahpodgurski",
+    "tags": [
+      "smart-home"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "roomba",
+    "fileName": "roomba"
+  },
+  {
+    "name": "Mempool",
+    "summary": "Mempool stats of Bitcoin",
+    "desc": "Showing details of the mempool of Bitcoin, such as the latest block and current fee rates.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "bitcoin"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "mempool",
+    "fileName": "mempool"
+  },
+  {
+    "name": "Yule Log",
+    "summary": "A pixel fireplace",
+    "desc": "A pixel fireplace to add some warmth to your Tidbyt.",
+    "author": "Tidbyt",
+    "tags": [
+      "art"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "yulelog",
+    "fileName": "yule_log"
+  },
+  {
+    "name": "Weather",
+    "summary": "Weather forecast",
+    "desc": "Weather forecasts for your location.",
+    "author": "JeffLac & RichardD012",
+    "tags": [
+      "weather"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "weather",
+    "fileName": "weather"
+  },
+  {
+    "name": "TeslaMate",
+    "summary": "Tesla info via HA",
+    "desc": "Shows your Tesla's current Name, Charge in Mi/KM and battery %, Plugged In Status via TeslaMate integration through Home Assistant REST API.",
+    "author": "brombomb",
+    "tags": [
+      "smart-home"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "teslamate",
+    "fileName": "teslamate"
+  },
+  {
+    "name": "DVD Logo",
+    "summary": "Bouncing DVD Logo",
+    "desc": "A screensaver from before the streaming era. Will it hit the corner this time?",
+    "author": "Mack Ward",
+    "tags": [
+      "art"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "dvdlogo",
+    "fileName": "dvd_logo"
+  },
+  {
+    "name": "This Is Fine",
+    "summary": "This Is Fine meme",
+    "desc": "A meme based on a webcomic series Gunshow illustrated by K.C. Green.",
+    "author": "zhaostu",
+    "tags": [
+      "meme"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "thisisfine",
+    "fileName": "this_is_fine"
+  },
+  {
+    "name": "Clock By Henry",
+    "summary": "Large Digit Time With Date",
+    "desc": "Show the time with numbers you can see from across the room! Bonus date included.",
+    "author": "Henry So, Jr.",
+    "tags": [
+      "clock",
+      "calendar"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "clockbyhenry",
+    "fileName": "clock_by_henry"
+  },
+  {
+    "name": "BitcoinTicker",
+    "summary": "Price of Bitcoin",
+    "desc": "Shows the price of Bitcoin. Choose to convert into USD, EUR, GBP, CNY, JPY, XAU (Gold) and many more.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "bitcoin"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "bitcointicker",
+    "fileName": "bitcointicker"
+  },
+  {
+    "name": "PiHole",
+    "summary": "PiHole stats for Tidbyt",
+    "desc": "Display Pi-hole blocking statistics on Tidbyt. Pi-hole admin portle should be reachable from outside home network (via reverse proxy or other means) for this app to work.",
+    "author": "siva801",
+    "tags": [
+      "smart-home",
+      "devs"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "pihole",
+    "fileName": "pihole"
+  },
+  {
+    "name": "Spanish WotD",
+    "summary": "Spanish Word del Dia",
+    "desc": "Displays the Spanish Word of the Day from SpanishDict.com.",
+    "author": "logancornelius",
+    "tags": [
+      "education"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "spanishwotd",
+    "fileName": "spanish_wotd"
+  },
+  {
+    "name": "Mastodon Follows",
+    "summary": "Display your follower count",
+    "desc": "Display your follower count from a Mastodon instance.",
+    "author": "Nick Penree",
+    "tags": [
+      "social"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "mastodonfollows",
+    "fileName": "mastodon_follows"
+  },
+  {
+    "name": "Index Ticker",
+    "summary": "Displays ticker for indices",
+    "desc": "Display ticker and stats for stock indices.",
+    "author": "M0ntyP",
+    "tags": [
+      "finance"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "indexticker",
+    "fileName": "index_ticker"
+  },
+  {
+    "name": "NS Timetable",
+    "summary": "NS Timetable",
+    "desc": "Shows a timetable for a station in the Dutch Railways.",
+    "author": "tim.hanssen",
+    "tags": [
+      "transit"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "nsbyt",
+    "fileName": "nsbyt"
+  },
+  {
+    "name": "BtcDifficulty",
+    "summary": "BTC difficulty adjustment",
+    "desc": "Displays Bitcoin's difficulty adjustment progress.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "bitcoin"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "btcdifficulty",
+    "fileName": "btcdifficulty"
+  },
+  {
+    "name": "Formula 1",
+    "summary": "Next F1 Race Location",
+    "desc": "Shows Time date and location of Next F1 race.",
+    "author": "AmillionAir",
+    "tags": [
+      "sport"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "formula1",
+    "fileName": "formula1"
+  },
+  {
+    "name": "Snake",
+    "summary": "Snake game animation",
+    "desc": "Shows random snake game animation.",
+    "author": "noahpodgurski",
+    "tags": [
+      "gaming"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "snake",
+    "fileName": "snake"
+  },
+  {
+    "name": "Satoshi Radio",
+    "summary": "SR mining pool stats",
+    "desc": "Show pool and user stats for the satoshiradio.nl mining pool.",
+    "author": "redboer",
+    "tags": [
+      "bitcoin",
+      "tracking"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "satoshiradio",
+    "fileName": "satoshiradio"
+  },
+  {
+    "name": "SolarEdge Monitor",
+    "summary": "PV system monitor",
+    "desc": "Energy production and consumption monitor for your SolarEdge solar panels.",
+    "author": "Marcus Better",
+    "tags": [
+      "smart-home"
+    ],
+    "isOfficialApplet": false,
+    "packageName": "solaredgemonitor",
+    "fileName": "solaredge_monitor"
+  }
+]

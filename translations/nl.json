@@ -1,0 +1,130 @@
+{
+  "a11y": {
+    "skip": "Spring naar de inhoud"
+  },
+  "header": {
+    "menuLabel": "Open menu",
+    "navLabel": "Hoofdmenu",
+    "applets": "Applets",
+    "gallery": "Het apparaat",
+    "buy": "Kopen",
+    "cta": "Bestellen"
+  },
+  "hero": {
+    "title": "Pixel Runner",
+    "eyebrow": "64 × 32 programmeerbare LED-matrix",
+    "lede": "Een compact pixelscherm dat een hele catalogus aan applets draait — klokken, nieuws, weer, markten, de statistieken van Bitcoin en meer. Stel het in vanuit je browser, geen cloud-account nodig.",
+    "photoAlt": "Productfoto",
+    "statApplets": {
+      "title": "1000+",
+      "body": "Applets in de catalogus"
+    },
+    "statPixels": {
+      "title": "64 × 32",
+      "body": "Pixels LED resolutie"
+    },
+    "statCloud": {
+      "title": "—",
+      "body": "Geen accounts, geen abonnementen"
+    }
+  },
+  "price": {
+    "unit": "sats",
+    "note": "excl. verzendkosten",
+    "stale": "(actuele koers niet beschikbaar, nieuwe poging)",
+    "ariaLabel": "Actuele productprijs",
+    "cta": "Bestel hem direct",
+    "label": "Jouw Pixel Runner, voor slechts",
+    "tagline": "(excl. verzendkosten)"
+  },
+  "features": {
+    "nocloud": {
+      "title": "Geen cloud, geen account",
+      "body": "Direct in te stellen vanuit je browser via je lokale netwerk. Je data blijft op je apparaat en bij de providers die je zelf kiest."
+    },
+    "configure": {
+      "title": "Bouw je eigen dashboard",
+      "body": "Stapel klokken, weer, markten, OV, Bitcoin-statistieken en je eigen pixelkunst. Herordenen, plannen en bijschaven vanaf elke telefoon of laptop."
+    },
+    "open": {
+      "title": "Open & uitbreidbaar",
+      "body": "Open-source-applets van de community. Schrijf je eigen applets in Starlark. Voor altijd van jou, geen abonnement, geen kill switch."
+    }
+  },
+  "gallery": {
+    "eyebrow": "Het apparaat",
+    "title": "Zie het in actie",
+    "sub": "Foto's en schermafbeeldingen van het echte apparaat en zijn applets.",
+    "tiles": {
+      "front": "Voorkant, verlicht",
+      "side": "Zijaanzicht",
+      "desk": "Op een bureau",
+      "clock": "Klok-applet",
+      "weather": "Weer-applet",
+      "bitcoin": "Bitcoin-koers-applet"
+    }
+  },
+  "applets": {
+    "eyebrow": "De catalogus",
+    "title": "~1000 applets, klaar voor gebruik",
+    "sub": "Blader per categorie. Elke applet is in te stellen vanuit jouw browser of telefoon. Hieronder een kleine selectie van de bibliotheek.",
+    "categoriesLabel": "Applet-categorieën",
+    "searchLabel": "Zoek in applets",
+    "searchPlaceholder": "Zoek in de catalogus…",
+    "all": "Alle",
+    "more": "en nog veel meer…",
+    "empty": "Geen applets gevonden — probeer een andere categorie of zoekterm."
+  },
+  "buy": {
+    "eyebrow": "Waar verkrijgbaar",
+    "title": "Waar te koop",
+    "sub": "Verkrijgbaar bij deze verkopers.",
+    "note": "(verkoperslijst wordt nog samengesteld)"
+  },
+  "footer": {
+    "title": "Pixel Runner",
+    "tagline": "Een programmeerbaar LED-pixelscherm.",
+    "documentation": "Documentatie",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden",
+    "language": "Taal",
+    "navLabel": "Voettekst",
+    "gdpr": "Geen tracking, geen cookies, geen accounts. We bewaren alleen je taalvoorkeur in je browser. De actuele Bitcoin-koers wordt opgehaald bij mempool.space."
+  },
+  "legal": {
+    "eyebrow": "Juridisch",
+    "back": "← Terug naar home",
+    "updated": "Laatst bijgewerkt: {{date}}",
+    "placeholder": "Dit is voorbeeldtekst en geen juridisch advies. Definitieve formulering wordt vóór de lancering herzien."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "overviewTitle": "Overzicht",
+    "overview": "Pixelrunner is ontworpen om te werken zonder cloud-account. Het apparaat wordt lokaal ingesteld vanuit je browser. Dit beleid legt uit wat de website en het apparaat verzamelen.",
+    "websiteTitle": "Wat deze website verzamelt",
+    "website": "Deze marketingsite is statisch. De site haalt de actuele Bitcoin-koers op bij mempool.space om de prijs in sats te tonen. Er worden geen persoonsgegevens verzameld, geen accounts, geen tracking-cookies.",
+    "dataTitle": "Wat we lokaal in je browser bewaren",
+    "dataPrice": "Bitcoin-koersverzoeken aan mempool.space: vanuit je browser; mempool.space ziet jouw IP-adres, zoals bij elke bezochte website.",
+    "dataLang": "Taalvoorkeur: opgeslagen in localStorage zodat de site je keuze onthoudt. Strikt functioneel onder de AVG/ePrivacy.",
+    "dataNoCookies": "Geen cookies, geen analytics, geen fingerprinting, geen trackers van derden.",
+    "deviceTitle": "Wat het apparaat verzamelt",
+    "device": "Applets kunnen API's van derden aanroepen die je zelf instelt (bijvoorbeeld weer- of marktgegevens). Die verzoeken gaan rechtstreeks van het apparaat naar de gekozen aanbieder. Pixelrunner relayt of bewaart die gegevens niet centraal.",
+    "rightsTitle": "Je rechten onder de AVG",
+    "rights": "Onder de AVG heb je recht op inzage, correctie, verwijdering, beperking, dataportabiliteit en bezwaar. Omdat deze site geen persoonsgegevens bewaart, gaat een verzoek hoogstens om het wissen van localStorage in je browser. Neem voor vragen contact op via de documentatiesite.",
+    "contactTitle": "Contact",
+    "contact": "Vragen over privacy? Bereik ons via de documentatiesite."
+  },
+  "terms": {
+    "title": "Algemene voorwaarden",
+    "productTitle": "Het product",
+    "product": "Pixelrunner is een programmeerbaar LED-matrixscherm dat wordt verkocht voor €210, te betalen in Bitcoin (sats). Het eurobedrag is een referentieprijs; de afrekening gebeurt in sats tegen de koers die bij het afrekenen wordt getoond.",
+    "ordersTitle": "Bestellingen & betaling",
+    "orders": "Bestellingen worden afgehandeld door de vermelde verkopers. Betaling, verzending en retouren vallen onder de eigen voorwaarden van elke verkoper.",
+    "warrantyTitle": "Garantie",
+    "warranty": "Het apparaat valt onder de wettelijke garantie die in jouw rechtsgebied geldt. Applets worden aangeboden zoals ze zijn; API's van derden die ze gebruiken kunnen wijzigen of stoppen met werken.",
+    "openSourceTitle": "Open source",
+    "openSource": "Pixelrunner bouwt voort op open-source-applets van de community. Handelsmerken en inhoud behoren toe aan hun respectievelijke eigenaren.",
+    "accessibilityTitle": "Toegankelijkheid",
+    "accessibility": "Deze site streeft naar WCAG 2.2 AA-conformiteit. Een toegankelijkheidsprobleem gespot? Laat het ons weten via de documentatiesite, dan lossen we het op."
+  }
+}

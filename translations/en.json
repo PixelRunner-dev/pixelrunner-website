@@ -1,0 +1,130 @@
+{
+  "a11y": {
+    "skip": "Skip to main content"
+  },
+  "header": {
+    "menuLabel": "Open menu",
+    "navLabel": "Primary",
+    "applets": "Applets",
+    "gallery": "The device",
+    "buy": "Buy",
+    "cta": "Get yours"
+  },
+  "hero": {
+    "title": "Pixel Runner",
+    "eyebrow": "64 × 32 programmable LED matrix",
+    "lede": "A pocket-sized pixel display that runs a whole catalog of applets — clocks, news, weather, markets, Bitcoin stats and more. Set it up from your browser, no cloud account required.",
+    "photoAlt": "Product photo",
+    "statApplets": {
+      "title": "1000+",
+      "body": "Applets in the catalog"
+    },
+    "statPixels": {
+      "title": "64 × 32",
+      "body": "Pixels LED resolution"
+    },
+    "statCloud": {
+      "title": "—",
+      "body": "No accounts, no subscriptions"
+    }
+  },
+  "price": {
+    "unit": "sats",
+    "note": "excl. shipment costs",
+    "stale": "(live rate unavailable, retrying)",
+    "ariaLabel": "Current product price",
+    "cta": "Get yours now",
+    "label": "Your Pixel Runner, for just",
+    "tagline": "(excl. shipment costs)"
+  },
+  "features": {
+    "nocloud": {
+      "title": "No cloud, no account",
+      "body": "Configured directly from your browser over your local network. Your data stays on your device and on the providers you pick yourself."
+    },
+    "configure": {
+      "title": "Build your own dashboard",
+      "body": "Stack clocks, weather, markets, transit, Bitcoin stats and your own pixel art. Reorder, schedule and tweak from any phone or laptop."
+    },
+    "open": {
+      "title": "Open & extensible",
+      "body": "Open-source applets from the community. Write your own in Starlark. Yours forever, no subscription, no kill switch."
+    }
+  },
+  "gallery": {
+    "eyebrow": "The device",
+    "title": "See it in action",
+    "sub": "Photos and screenshots of the real device and its applets.",
+    "tiles": {
+      "front": "Front, lit up",
+      "side": "Side profile",
+      "desk": "On a desk",
+      "clock": "Clock applet",
+      "weather": "Weather applet",
+      "bitcoin": "Bitcoin price applet"
+    }
+  },
+  "applets": {
+    "eyebrow": "The catalog",
+    "title": "~1000 applets, ready to run",
+    "sub": "Browse by category. Every applet is configurable from your browser or phone. Here below a small selection of the library.",
+    "categoriesLabel": "Applet categories",
+    "searchLabel": "Search applets",
+    "searchPlaceholder": "Search the catalog…",
+    "all": "All",
+    "more": "and much more…",
+    "empty": "No applets match — try a different category or search."
+  },
+  "buy": {
+    "eyebrow": "Where to get one",
+    "title": "Where to buy",
+    "sub": "Available from these resellers.",
+    "note": "(reseller list is being finalised)"
+  },
+  "footer": {
+    "title": "Pixel Runner",
+    "tagline": "A programmable LED pixel display.",
+    "documentation": "Documentation",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "language": "Language",
+    "navLabel": "Footer",
+    "gdpr": "No tracking, no cookies, no accounts. We store only your language preference in your browser. The live Bitcoin price is fetched from mempool.space."
+  },
+  "legal": {
+    "eyebrow": "Legal",
+    "back": "← Back to home",
+    "updated": "Last updated: {{date}}",
+    "placeholder": "This is placeholder copy and not legal advice. Final wording to be reviewed before launch."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "overviewTitle": "Overview",
+    "overview": "Pixelrunner is designed to work without a cloud account. The device is configured locally from your browser. This policy explains what the website and the device collect.",
+    "websiteTitle": "What this website collects",
+    "website": "This marketing site is static. It fetches the live Bitcoin price from mempool.space to display the price in sats. No personal data is collected, no accounts, no tracking cookies.",
+    "dataTitle": "Data we store on your device",
+    "dataPrice": "Bitcoin price requests to mempool.space: sent from your browser; mempool.space sees your IP address, as for any visited website.",
+    "dataLang": "Language preference: stored in your browser's localStorage so the site remembers your choice. Strictly functional under GDPR ePrivacy.",
+    "dataNoCookies": "No cookies, no analytics, no fingerprinting, no third-party trackers.",
+    "deviceTitle": "What the device collects",
+    "device": "Applets may call third-party APIs you configure (for example weather or market data). Those requests go directly from the device to the chosen provider. Pixelrunner does not relay or store that data centrally.",
+    "rightsTitle": "Your GDPR rights",
+    "rights": "Under the GDPR you have the right to access, correct, erase, restrict, port or object to processing of personal data. Since this site stores none, requests are limited to clearing localStorage in your browser. Contact us via the documentation site for any question.",
+    "contactTitle": "Contact",
+    "contact": "Questions about privacy? Reach us via the documentation site."
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "productTitle": "The product",
+    "product": "Pixelrunner is a programmable LED matrix display sold for €210, payable in Bitcoin (sats). The euro figure is a reference price; settlement happens in sats at the rate shown at checkout.",
+    "ordersTitle": "Orders & payment",
+    "orders": "Orders are fulfilled by the listed resellers. Payment, shipping, and returns are handled under each reseller's own terms.",
+    "warrantyTitle": "Warranty",
+    "warranty": "The device carries the statutory warranty applicable in your jurisdiction. Applets are provided as-is; third-party APIs they use may change or stop working.",
+    "openSourceTitle": "Open source",
+    "openSource": "Pixelrunner builds on open-source applets from the community. Trademarks and content belong to their respective owners.",
+    "accessibilityTitle": "Accessibility",
+    "accessibility": "This site aims for WCAG 2.2 AA conformance. Spotted an accessibility barrier? Let us know via the documentation site so we can fix it."
+  }
+}
