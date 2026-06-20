@@ -14,6 +14,23 @@
     <meta property="og:description" content="64×32 pixel display, 1000+ applets, no accounts or subscriptions" />
     <meta property="og:type" content="website" />
     <link rel="icon" type="image/svg+xml" href="/logo-symbol.svg" />
+    <script>
+      // SPA redirect decoder — pairs with public/404.html (rafgraph/spa-github-pages).
+      (function (l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search
+            .slice(1)
+            .split('&')
+            .map(function (s) { return s.replace(/~and~/g, '&'); })
+            .join('?');
+          window.history.replaceState(
+            null,
+            '',
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      })(window.location);
+    </script>
   </head>
   <body>
     <div id="app"></div>

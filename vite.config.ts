@@ -5,8 +5,9 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vite.dev/config/
 export default defineConfig({
-  // Hash-routed SPA on GitHub Pages — keep base relative so it works under any path.
-  base: './',
+  // History-mode SPA on GitHub Pages. Override with VITE_BASE_PATH at build
+  // time when deploying to a project subpath (e.g. "/repo/").
+  base: process.env.VITE_BASE_PATH ?? '/',
   plugins: [vue()],
   resolve: {
     alias: {
