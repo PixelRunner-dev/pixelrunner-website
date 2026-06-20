@@ -10,7 +10,7 @@ import { RouterLink } from 'vue-router';
       <h1 v-reveal>{{ $t('terms.title') }}</h1>
       <p class="updated">{{ $t('legal.updated', { date: '18 June 2026' }) }}</p>
 
-      <section v-reveal>
+      <!-- <section v-reveal>
         <h2>{{ $t('terms.productTitle') }}</h2>
         <p>{{ $t('terms.product') }}</p>
       </section>
@@ -35,7 +35,7 @@ import { RouterLink } from 'vue-router';
         <p>{{ $t('terms.accessibility') }}</p>
       </section>
 
-      <p class="placeholder-note">{{ $t('legal.placeholder') }}</p>
+      <p class="placeholder-note">{{ $t('legal.placeholder') }}</p> -->
     </div>
   </main>
 </template>

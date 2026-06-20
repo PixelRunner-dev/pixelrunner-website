@@ -8,7 +8,10 @@ const STORAGE_KEY = 'lang';
 
 // Add a language: drop translations/<code>.json and register the loader here.
 const translationLoaders = {
-  nl: () => import('../translations/nl.json')
+  nl: () => import('../translations/nl.json'),
+  de: () => import('../translations/de.json'),
+  fr: () => import('../translations/fr.json'),
+  es: () => import('../translations/es.json')
 } satisfies Record<string, () => Promise<{ default: typeof en }>>;
 
 export const availableLanguages = [DEFAULT_LANGUAGE, ...Object.keys(translationLoaders)];

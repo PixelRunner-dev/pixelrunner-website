@@ -136,6 +136,8 @@ onMounted(() => {
 }
 
 .hero-title {
+  position: relative;
+  isolation: isolate;
   font-size: clamp(3rem, 11vw, 7.5rem);
   line-height: 0.92;
   margin: 0.4rem 0 1.25rem;
@@ -143,8 +145,53 @@ onMounted(() => {
   color: var(--ink);
 }
 .hero-title :deep(.word) {
+  position: relative;
   display: inline-block;
   will-change: transform, opacity;
+  background-image:
+    radial-gradient(
+      circle at center,
+      transparent 0 24%,
+      color-mix(in oklab, var(--bg-soft) 70%, transparent) 26% 34%,
+      transparent 36%
+    ),
+    linear-gradient(
+      100deg,
+      color-mix(in oklab, var(--ink)    55%, transparent)  0%,
+      color-mix(in oklab, var(--ink)    55%, transparent) 30%,
+      color-mix(in oklab, var(--accent) 55%, transparent) 55%,
+      color-mix(in oklab, var(--ink)    55%, transparent) 90%
+    );
+  background-size: 9px 9px, 240% 100%;
+  background-position: 0 0, 0% 50%;
+  background-repeat: repeat, no-repeat;
+  background-clip: text, text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-shadow:
+    1px 1px 0 color-mix(in oklab, var(--accent) 90%, transparent),
+    2px 2px 0 color-mix(in oklab, var(--accent) 75%, transparent),
+    3px 3px 0 color-mix(in oklab, var(--accent) 55%, transparent),
+    4px 4px 0 color-mix(in oklab, var(--ink) 90%, transparent),
+    5px 5px 0 color-mix(in oklab, var(--ink) 70%, transparent),
+    6px 6px 0 color-mix(in oklab, var(--ink) 50%, transparent),
+    7px 7px 0 color-mix(in oklab, var(--ink) 30%, transparent),
+    8px 8px 0 color-mix(in oklab, var(--ink) 15%, transparent);
+  animation: title-sweep 9s steps(48, end) infinite alternate;
+}
+.hero-title :deep(.word:nth-child(even)) {
+  animation-delay: -4.5s;
+}
+@keyframes title-sweep {
+  from { background-position: 0 0,    0% 50%; }
+  to   { background-position: 9px 0, 240% 50%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-title :deep(.word) {
+    animation: none;
+    background-position: 0 0, 35% 50%;
+  }
 }
 .hero-lede {
   color: var(--muted);

@@ -2,6 +2,12 @@
   "a11y": {
     "skip": "Spring naar de inhoud"
   },
+  "meta": {
+    "title": "Pixel Runner — een programmeerbaar LED-pixelscherm",
+    "description": "Pixel Runner is een programmeerbaar 64×32 LED-matrixscherm met een catalogus van 1000+ applets. Geen accounts of abonnementen nodig. Bestel hem nu!",
+    "ogTitle": "Pixel Runner — programmeerbare LED-matrix",
+    "ogDescription": "64×32 pixelscherm, 1000+ applets, geen accounts of abonnementen"
+  },
   "header": {
     "menuLabel": "Open menu",
     "navLabel": "Hoofdmenu",
@@ -13,7 +19,7 @@
   "hero": {
     "title": "Pixel Runner",
     "eyebrow": "64 × 32 programmeerbare LED-matrix",
-    "lede": "Een compact pixelscherm dat een hele catalogus aan applets draait — klokken, nieuws, weer, markten, de statistieken van Bitcoin en meer. Stel het in vanuit je browser, geen cloud-account nodig.",
+    "lede": "Een compact pixelscherm dat een hele catalogus aan applets draait — klokken, nieuws, weer, markten, smart-home meldingen, de statistieken van Bitcoin en meer. Configurabel vanuit je browser, geen account of abonnement nodig.",
     "photoAlt": "Productfoto",
     "statApplets": {
       "title": "1000+",
@@ -39,22 +45,22 @@
   },
   "features": {
     "nocloud": {
-      "title": "Geen cloud, geen account",
-      "body": "Direct in te stellen vanuit je browser via je lokale netwerk. Je data blijft op je apparaat en bij de providers die je zelf kiest."
+      "title": "Geen account, geen abonnement",
+      "body": "Direct in te stellen vanuit je browser via je lokale netwerk. Geen cloud-abonnement nodig — het apparaat regelt alles zelf."
     },
     "configure": {
-      "title": "Bouw je eigen dashboard",
-      "body": "Stapel klokken, weer, markten, OV, Bitcoin-statistieken en je eigen pixelkunst. Herordenen, plannen en bijschaven vanaf elke telefoon of laptop."
+      "title": "Stel je playlist samen",
+      "body": "Stel je eigen playlist samen met applets zoals klokken, weer, markten, OV en meer. Herordenen, plannen en bijschaven vanaf elke telefoon of laptop."
     },
     "open": {
       "title": "Open & uitbreidbaar",
-      "body": "Open-source-applets van de community. Schrijf je eigen applets in Starlark. Voor altijd van jou, geen abonnement, geen kill switch."
+      "body": "Een catalogus van 1000+ open-source-applets van de Tronbyt-community. Schrijf je eigen in Starlark en dien ze in via een PR op GitHub."
     }
   },
   "gallery": {
     "eyebrow": "Het apparaat",
     "title": "Zie het in actie",
-    "sub": "Foto's en schermafbeeldingen van het echte apparaat en zijn applets.",
+    "sub": "Foto's en schermafbeeldingen van het echte apparaat.",
     "tiles": {
       "front": "Voorkant, verlicht",
       "side": "Zijaanzicht",

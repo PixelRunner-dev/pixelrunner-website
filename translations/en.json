@@ -2,6 +2,12 @@
   "a11y": {
     "skip": "Skip to main content"
   },
+  "meta": {
+    "title": "Pixel Runner — a programmable LED pixel display",
+    "description": "Pixel Runner is a programmable 64×32 LED matrix display with a catalog of 1000+ applets. No accounts or subscriptions required. Buy it now!",
+    "ogTitle": "Pixel Runner — programmable LED matrix",
+    "ogDescription": "64×32 pixel display, 1000+ applets, no accounts or subscriptions"
+  },
   "header": {
     "menuLabel": "Open menu",
     "navLabel": "Primary",
@@ -13,7 +19,7 @@
   "hero": {
     "title": "Pixel Runner",
     "eyebrow": "64 × 32 programmable LED matrix",
-    "lede": "A pocket-sized pixel display that runs a whole catalog of applets — clocks, news, weather, markets, Bitcoin stats and more. Set it up from your browser, no cloud account required.",
+    "lede": "A pocket-sized pixel display that runs a whole catalog of applets — clocks, news, weather, markets, smart-home alerts, Bitcoin stats and more. Configurable from your browser, no account or subscription required.",
     "photoAlt": "Product photo",
     "statApplets": {
       "title": "1000+",
@@ -39,22 +45,22 @@
   },
   "features": {
     "nocloud": {
-      "title": "No cloud, no account",
-      "body": "Configured directly from your browser over your local network. Your data stays on your device and on the providers you pick yourself."
+      "title": "No account, no subscription",
+      "body": "Configured directly from your browser over your local network. No cloud subscription needed as the device itself will handle everything."
     },
     "configure": {
-      "title": "Build your own dashboard",
-      "body": "Stack clocks, weather, markets, transit, Bitcoin stats and your own pixel art. Reorder, schedule and tweak from any phone or laptop."
+      "title": "Configure your playlist",
+      "body": "Configure your own playlist of applets like clocks, weather, markets, transit, and more. Reorder, schedule and tweak from any phone or laptop."
     },
     "open": {
       "title": "Open & extensible",
-      "body": "Open-source applets from the community. Write your own in Starlark. Yours forever, no subscription, no kill switch."
+      "body": "A catalog of 1000+ open-source applets from the Tronbyt community. Write your own in Starlark and submit via a PR in GitHub."
     }
   },
   "gallery": {
     "eyebrow": "The device",
     "title": "See it in action",
-    "sub": "Photos and screenshots of the real device and its applets.",
+    "sub": "Photos and screenshots of the real device.",
     "tiles": {
       "front": "Front, lit up",
       "side": "Side profile",

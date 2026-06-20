@@ -1,0 +1,136 @@
+{
+  "a11y": {
+    "skip": "Saltar al contenido principal"
+  },
+  "meta": {
+    "title": "Pixel Runner — una pantalla de píxeles LED programable",
+    "description": "Pixel Runner es una pantalla LED matricial programable 64×32 con un catálogo de 1000+ applets. Sin cuentas ni suscripciones. ¡Cómpralo ahora!",
+    "ogTitle": "Pixel Runner — matriz LED programable",
+    "ogDescription": "Pantalla de 64×32 píxeles, 1000+ applets, sin cuentas ni suscripciones"
+  },
+  "header": {
+    "menuLabel": "Abrir menú",
+    "navLabel": "Navegación principal",
+    "applets": "Applets",
+    "gallery": "El dispositivo",
+    "buy": "Comprar",
+    "cta": "Consigue uno"
+  },
+  "hero": {
+    "title": "Pixel Runner",
+    "eyebrow": "Matriz LED programable 64 × 32",
+    "lede": "Una pantalla de píxeles de bolsillo que ejecuta todo un catálogo de applets — relojes, noticias, clima, mercados, alertas domóticas, estadísticas de Bitcoin y más. Configurable desde tu navegador, sin cuenta ni suscripción.",
+    "photoAlt": "Foto del producto",
+    "statApplets": {
+      "title": "1000+",
+      "body": "Applets en el catálogo"
+    },
+    "statPixels": {
+      "title": "64 × 32",
+      "body": "Píxeles de resolución LED"
+    },
+    "statCloud": {
+      "title": "—",
+      "body": "Sin cuentas, sin suscripciones"
+    }
+  },
+  "price": {
+    "unit": "sats",
+    "note": "sin gastos de envío",
+    "stale": "(tasa en vivo no disponible, reintentando)",
+    "ariaLabel": "Precio actual del producto",
+    "cta": "Consigue uno ya",
+    "label": "Tu Pixel Runner, por solo",
+    "tagline": "(sin gastos de envío)"
+  },
+  "features": {
+    "nocloud": {
+      "title": "Sin cuenta, sin suscripción",
+      "body": "Configurable directamente desde tu navegador a través de tu red local. Sin suscripción a la nube — el dispositivo se encarga de todo."
+    },
+    "configure": {
+      "title": "Crea tu playlist",
+      "body": "Crea tu propia playlist de applets como relojes, clima, mercados, transporte y más. Reordena, programa y ajusta desde cualquier teléfono o portátil."
+    },
+    "open": {
+      "title": "Abierto y extensible",
+      "body": "Un catálogo de 1000+ applets open source de la comunidad Tronbyt. Escribe los tuyos en Starlark y envíalos vía un PR en GitHub."
+    }
+  },
+  "gallery": {
+    "eyebrow": "El dispositivo",
+    "title": "Míralo en acción",
+    "sub": "Fotos y capturas del dispositivo real.",
+    "tiles": {
+      "front": "Frente, encendido",
+      "side": "Vista lateral",
+      "desk": "En un escritorio",
+      "clock": "Applet de reloj",
+      "weather": "Applet del clima",
+      "bitcoin": "Applet de precio Bitcoin"
+    }
+  },
+  "applets": {
+    "eyebrow": "El catálogo",
+    "title": "1000+ applets, listos para usar",
+    "sub": "Explora por categoría. Cada applet es configurable desde tu navegador o teléfono. A continuación, una pequeña selección de la biblioteca.",
+    "categoriesLabel": "Categorías de applets",
+    "searchLabel": "Buscar applets",
+    "searchPlaceholder": "Busca en el catálogo…",
+    "all": "Todos",
+    "more": "y mucho más…",
+    "empty": "No se encontraron applets — prueba otra categoría o búsqueda."
+  },
+  "buy": {
+    "eyebrow": "Dónde conseguirlo",
+    "title": "Dónde comprar",
+    "sub": "Disponible en estos distribuidores.",
+    "note": "(lista de distribuidores en preparación)"
+  },
+  "footer": {
+    "title": "Pixel Runner",
+    "tagline": "Una pantalla de píxeles LED programable.",
+    "documentation": "Documentación",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "language": "Idioma",
+    "navLabel": "Pie de página",
+    "gdpr": "Sin tracking, sin cookies, sin cuentas. Solo guardamos tu preferencia de idioma en tu navegador. El precio en vivo del Bitcoin se obtiene de mempool.space."
+  },
+  "legal": {
+    "eyebrow": "Legal",
+    "back": "← Volver al inicio",
+    "updated": "Última actualización: {{date}}",
+    "placeholder": "Este es un texto de ejemplo y no constituye asesoramiento legal. La redacción final será revisada antes del lanzamiento."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "overviewTitle": "Resumen",
+    "overview": "Pixelrunner está diseñado para funcionar sin una cuenta en la nube. El dispositivo se configura localmente desde tu navegador. Esta política explica qué recopilan el sitio web y el dispositivo.",
+    "websiteTitle": "Qué recopila este sitio",
+    "website": "Este sitio de marketing es estático. Obtiene el precio en vivo del Bitcoin desde mempool.space para mostrarlo en sats. No se recopilan datos personales, ni cuentas, ni cookies de tracking.",
+    "dataTitle": "Datos que almacenamos en tu dispositivo",
+    "dataPrice": "Solicitudes de precio de Bitcoin a mempool.space: enviadas desde tu navegador; mempool.space ve tu dirección IP, como con cualquier sitio visitado.",
+    "dataLang": "Preferencia de idioma: almacenada en el localStorage de tu navegador para que el sitio recuerde tu elección. Estrictamente funcional bajo RGPD/ePrivacy.",
+    "dataNoCookies": "Sin cookies, sin analítica, sin fingerprinting, sin rastreadores de terceros.",
+    "deviceTitle": "Qué recopila el dispositivo",
+    "device": "Los applets pueden llamar a APIs de terceros que tú configures (por ejemplo, clima o datos de mercado). Esas solicitudes van directamente del dispositivo al proveedor elegido. Pixelrunner no transmite ni almacena esos datos de forma centralizada.",
+    "rightsTitle": "Tus derechos RGPD",
+    "rights": "Bajo el RGPD tienes derecho de acceso, rectificación, supresión, limitación, portabilidad y oposición al tratamiento de datos personales. Como este sitio no almacena ninguno, las solicitudes se limitan a borrar el localStorage de tu navegador. Contáctanos vía el sitio de documentación para cualquier consulta.",
+    "contactTitle": "Contacto",
+    "contact": "¿Preguntas sobre privacidad? Contáctanos vía el sitio de documentación."
+  },
+  "terms": {
+    "title": "Términos y condiciones",
+    "productTitle": "El producto",
+    "product": "Pixelrunner es una pantalla LED matricial programable que se vende por 210 €, pagadera en Bitcoin (sats). El importe en euros es un precio de referencia; la liquidación se realiza en sats al tipo mostrado al pagar.",
+    "ordersTitle": "Pedidos y pago",
+    "orders": "Los pedidos los gestionan los distribuidores listados. El pago, el envío y las devoluciones se rigen por las propias condiciones de cada distribuidor.",
+    "warrantyTitle": "Garantía",
+    "warranty": "El dispositivo cuenta con la garantía legal aplicable en tu jurisdicción. Los applets se ofrecen tal cual; las APIs de terceros que usan pueden cambiar o dejar de funcionar.",
+    "openSourceTitle": "Open source",
+    "openSource": "Pixelrunner se construye sobre applets open source de la comunidad. Marcas y contenidos pertenecen a sus respectivos propietarios.",
+    "accessibilityTitle": "Accesibilidad",
+    "accessibility": "Este sitio busca la conformidad WCAG 2.2 AA. ¿Has detectado una barrera de accesibilidad? Avísanos vía el sitio de documentación y la corregimos."
+  }
+}

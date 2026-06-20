@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onBeforeUnmount, onMounted, ref } from 'vue';
+import { onBeforeUnmount, onMounted, ref, watch } from 'vue';
 import { RouterLink, useRoute } from 'vue-router';
 
 import { availableLanguages, i18next, setLanguage } from '@/i18n';
@@ -8,10 +8,14 @@ const route = useRoute();
 const open = ref(false);
 const scrolled = ref(false);
 
-function close() { open.value = false; }
+function close() {
+  open.value = false;
+  document.body.style.overflow = '';
+}
 function toggle() { open.value = !open.value; }
 function onLang(e: Event) {
   void setLanguage((e.target as HTMLSelectElement).value);
+  close();
 }
 
 function onScroll() { scrolled.value = window.scrollY > 8; }
@@ -20,7 +24,14 @@ onMounted(() => {
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 });
-onBeforeUnmount(() => window.removeEventListener('scroll', onScroll));
+onBeforeUnmount(() => {
+  window.removeEventListener('scroll', onScroll);
+  document.body.style.overflow = '';
+});
+
+watch(open, (isOpen) => {
+  document.body.style.overflow = isOpen ? 'hidden' : '';
+});
 </script>
 
 <template>
@@ -55,9 +66,9 @@ onBeforeUnmount(() => window.removeEventListener('scroll', onScroll));
         <a v-if="route.name === 'home'" href="#gallery" class="nav-link" @click="close">
           {{ $t('header.gallery') }}
         </a>
-        <a v-if="route.name === 'home'" href="#buy" class="nav-link" @click="close">
+        <!-- <a v-if="route.name === 'home'" href="#buy" class="nav-link" @click="close">
           {{ $t('header.buy') }}
-        </a>
+        </a> -->
         <RouterLink v-else to="/" class="nav-link" @click="close">
           {{ $t('legal.back') }}
         </RouterLink>
@@ -102,6 +113,10 @@ onBeforeUnmount(() => window.removeEventListener('scroll', onScroll));
 .site-header.is-scrolled {
   border-bottom-color: var(--border);
   background: color-mix(in oklab, var(--bg) 90%, transparent);
+}
+.site-header:has(.nav.open) {
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
 }
 .header-row {
   display: flex;
@@ -193,13 +208,16 @@ onBeforeUnmount(() => window.removeEventListener('scroll', onScroll));
     flex-direction: column;
     align-items: stretch;
     gap: 0.5rem;
-    background: var(--bg);
+    background-color: var(--bg-soft);
     padding: 1.5rem var(--gutter);
     transform: translateY(-12px);
     opacity: 0;
     pointer-events: none;
     transition: transform 0.25s ease, opacity 0.25s ease;
+    border-top: 2px solid var(--ink);
     border-bottom: 1px solid var(--border);
+    isolation: isolate;
+    z-index: 1;
   }
   .nav.open {
     transform: none;
