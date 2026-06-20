@@ -59,7 +59,7 @@ onMounted(() => {
     <div class="container hero-inner">
       <div class="hero-copy">
         <p class="eyebrow">{{ $t('hero.eyebrow') }}</p>
-        <h1 ref="titleRef" v-once class="hero-title">{{ $t('hero.title') }}</h1>
+        <h1 ref="titleRef" v-once class="hero-title" data-test="hero-title">{{ $t('hero.title') }}</h1>
         <p class="hero-lede">{{ $t('hero.lede') }}</p>
 
         <dl class="hero-stats" v-reveal="{ delay: 600 }">

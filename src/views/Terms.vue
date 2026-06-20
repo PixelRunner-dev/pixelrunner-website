@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router';
     <div class="container container-narrow">
       <RouterLink to="/" class="back">{{ $t('legal.back') }}</RouterLink>
       <p class="eyebrow">{{ $t('legal.eyebrow') }}</p>
-      <h1 v-reveal>{{ $t('terms.title') }}</h1>
+      <h1 v-reveal data-test="terms-title">{{ $t('terms.title') }}</h1>
       <p class="updated">{{ $t('legal.updated', { date: '18 June 2026' }) }}</p>
 
       <!-- <section v-reveal>

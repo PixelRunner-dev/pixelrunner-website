@@ -102,7 +102,7 @@ onBeforeUnmount(() => {
           </svg>
           <span class="visually-hidden">{{ $t('price.unit') }}</span>
         </span>
-        <span class="price-eur">≈ €{{ PRICE_EUR }}</span>
+        <span class="price-eur" data-test="price-eur">≈ €{{ PRICE_EUR }}</span>
         <p class="price-tag">{{ $t('price.tagline') }}</p>
       </div>
 
