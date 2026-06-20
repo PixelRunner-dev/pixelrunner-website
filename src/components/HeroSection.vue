@@ -9,7 +9,7 @@ const ledRef = ref<HTMLElement | null>(null);
 
 // 6 deterministic applet thumbs for the floating preview cluster.
 const thumbs = computed(() =>
-  ['nos', 'doorbell', 'clockbyhenry', 'bitcointicker', 'buienradar', 'solaredgemonitor']
+  ['nunl', 'doorbell', 'clockbyhenry', 'bitcointicker', 'buienradar', 'nyancat']
     .map((pkg) => applets.find((a) => a.packageName === pkg) ?? applets[0])
     .filter(Boolean)
 );

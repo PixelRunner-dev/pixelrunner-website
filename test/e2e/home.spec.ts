@@ -17,7 +17,7 @@ test('home page loads with hero, price and applets', async ({ page }) => {
 
   const badge = page.getByTestId('price-badge');
   await expect(badge).toContainText('€210');
-  await expect(badge.getByTestId('sats')).toHaveText('376 300');
+  await expect(badge.getByTestId('sats')).toHaveText('376 300');
 });
 
 test('applet thumbnails point at the CDN url pattern', async ({ page }) => {

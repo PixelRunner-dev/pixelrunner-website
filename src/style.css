@@ -59,20 +59,22 @@ body {
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  /* Pixel-checker page background — replaces the soft gradient look */
+  /* Pixel-art tile background.
+     32×32 inline SVG: bayer-like ordered dot cluster + a stray 1×1 LED.
+     Snaps crisply because background-size matches the SVG viewBox 1:1
+     and the SVG itself draws integer-pixel rects. */
   background-color: var(--bg);
-  background-image:
-    /* dotted accent grid */
-    radial-gradient(color-mix(in oklab, var(--ink) 8%, transparent) 1px, transparent 1px),
-    /* large 2x2 pixel-art checker for warmth */
-    linear-gradient(45deg,
-      color-mix(in oklab, var(--bg-soft) 40%, transparent) 25%, transparent 25%,
-      transparent 75%, color-mix(in oklab, var(--bg-soft) 40%, transparent) 75%);
-  background-size:
-    16px 16px,
-    48px 48px;
-  background-position: 0 0, 0 0;
+  /* Dense 16×16 LED-matrix tile.
+     - Base 2×2 ink dots on every 4px slot (LED grid).
+     - Brighter accent dots at offset positions.
+     - Sparse 1×1 highlights for sparkle.
+     Repeats every 16px so the matrix reads even at tiny zoom. */
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16' shape-rendering='crispEdges'><g fill='%232a1605' fill-opacity='.09'><rect x='0' y='0' width='2' height='2'/><rect x='4' y='0' width='2' height='2'/><rect x='8' y='0' width='2' height='2'/><rect x='12' y='0' width='2' height='2'/><rect x='0' y='4' width='2' height='2'/><rect x='4' y='4' width='2' height='2'/><rect x='8' y='4' width='2' height='2'/><rect x='12' y='4' width='2' height='2'/><rect x='0' y='8' width='2' height='2'/><rect x='4' y='8' width='2' height='2'/><rect x='8' y='8' width='2' height='2'/><rect x='12' y='8' width='2' height='2'/><rect x='0' y='12' width='2' height='2'/><rect x='4' y='12' width='2' height='2'/><rect x='8' y='12' width='2' height='2'/><rect x='12' y='12' width='2' height='2'/></g><g fill='%23b54a1b' fill-opacity='.28'><rect x='2' y='6' width='1' height='1'/><rect x='10' y='2' width='1' height='1'/><rect x='6' y='10' width='1' height='1'/><rect x='14' y='14' width='1' height='1'/></g><g fill='%23f7dbbf'><rect x='3' y='3' width='1' height='1'/><rect x='11' y='11' width='1' height='1'/><rect x='7' y='15' width='1' height='1'/><rect x='15' y='7' width='1' height='1'/></g></svg>");
+  background-size: 16px 16px;
+  background-repeat: repeat;
   background-attachment: fixed;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
 }
 
 a {

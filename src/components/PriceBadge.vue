@@ -74,7 +74,33 @@ onBeforeUnmount(() => {
         <p class="price-label">{{ $t('price.label') }}</p>
         <span class="price-sats" aria-live="polite">
           <span data-test="sats" class="sats-num">{{ satsLabel }}</span>
-          <span class="unit">{{ $t('price.unit') }}</span>
+          <svg
+            class="sats-icon"
+            viewBox="0 0 64 80"
+            role="img"
+            :aria-label="$t('price.unit')"
+            focusable="false"
+          >
+            <title>{{ $t('price.unit') }}</title>
+            <g
+              transform="rotate(13 32 40)"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="6"
+              stroke-linecap="square"
+              shape-rendering="crispEdges"
+            >
+              <!-- top perpendicular cap. visible: y 0→13. -->
+              <line x1="32" y1="3" x2="32" y2="10" />
+              <!-- 3 equal-width horizontal strokes, centres 14 apart. -->
+              <line x1="12" y1="24" x2="52" y2="24" />
+              <line x1="12" y1="38" x2="52" y2="38" />
+              <line x1="12" y1="52" x2="52" y2="52" />
+              <!-- bottom perpendicular cap. visible: y 63→76. -->
+              <line x1="32" y1="66" x2="32" y2="73" />
+            </g>
+          </svg>
+          <span class="visually-hidden">{{ $t('price.unit') }}</span>
         </span>
         <span class="price-eur">≈ €{{ PRICE_EUR }}</span>
         <p class="price-tag">{{ $t('price.tagline') }}</p>
@@ -193,13 +219,16 @@ onBeforeUnmount(() => {
   color: var(--bg);
   font-variant-numeric: tabular-nums;
 }
-.unit {
-  font-family: var(--font-body);
-  font-size: 1rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.22em;
+.sats-icon {
+  /* Inline satoshi glyph — inherits color from currentColor */
   color: var(--accent-2);
+  /* viewBox aspect 64:80; width auto preserves the glyph proportions. */
+  height: clamp(2rem, 5.5vw, 3.6rem);
+  width: auto;
+  flex-shrink: 0;
+  /* baseline alignment seats glyph bottom on price number's baseline */
+  align-self: baseline;
+  image-rendering: pixelated;
 }
 .price-eur {
   font-family: var(--font-mono);

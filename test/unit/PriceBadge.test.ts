@@ -26,7 +26,7 @@ describe('PriceBadge', () => {
     await flushPromises();
 
     expect(wrapper.text()).toContain('€210');
-    expect(wrapper.get('[data-test="sats"]').text()).toBe('376 300');
+    expect(wrapper.get('[data-test="sats"]').text()).toBe('376 300');
   });
 
   it('shows "—" and a notice when the rate fetch fails', async () => {
