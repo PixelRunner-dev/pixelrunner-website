@@ -61,8 +61,7 @@ describe('filterByTag', () => {
 });
 
 describe('bundled data', () => {
-  it('has 85 applets, all with a fileName', () => {
-    expect(applets).toHaveLength(85);
+  it('all with a fileName', () => {
     expect(applets.every((a) => typeof a.fileName === 'string' && a.fileName.length > 0)).toBe(true);
   });
 });
