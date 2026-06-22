@@ -1,12 +1,26 @@
 <script setup lang="ts">
 import { computed, nextTick, onMounted, ref, watch } from 'vue';
+import { useRoute, useRouter } from 'vue-router';
 
 import { applets, filterByTag, imageUrl, topTags } from '@/lib/applets';
 import { motion, stagger } from '@/lib/anim';
 
 const tabs = ['all', ...topTags(10)];
 const active = ref<string>('all');
-const query = ref('');
+const route = useRoute();
+const router = useRouter();
+// Seed from ?q= — only strings. router.query values are typed unknown-string-or-null,
+// and we bind via v-model to a text input (no HTML interpolation), so XSS-safe by construction.
+const initialQ = typeof route.query.q === 'string' ? route.query.q : '';
+const query = ref(initialQ);
+
+watch(query, (value) => {
+  const next = { ...route.query };
+  const trimmed = value.trim();
+  if (trimmed) next.q = trimmed;
+  else delete next.q;
+  router.replace({ query: next });
+});
 const tabsEl = ref<HTMLElement | null>(null);
 const indicator = ref({ left: 0, width: 0 });
 
