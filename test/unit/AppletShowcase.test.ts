@@ -52,16 +52,18 @@ describe('AppletShowcase', () => {
     expect(src).toMatch(/^https:\/\/applets\.pixelrunner\.dev\/[^/]+\.webp$/);
   });
 
-  it('writes the search term into the ?q= URL param', async () => {
+  it('writes the search term into the ?q= URL param and anchors to #applets', async () => {
     const { wrapper, router } = await mountWithRouter();
     const input = wrapper.get<HTMLInputElement>('[data-test="applet-search"]');
     await input.setValue('clock');
     await flushPromises();
     expect(router.currentRoute.value.query.q).toBe('clock');
+    expect(router.currentRoute.value.hash).toBe('#applets');
 
     await input.setValue('');
     await flushPromises();
     expect(router.currentRoute.value.query.q).toBeUndefined();
+    expect(router.currentRoute.value.hash).toBe('#applets');
   });
 
   it('seeds the input from ?q= on load and filters', async () => {

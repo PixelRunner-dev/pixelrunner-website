@@ -19,7 +19,9 @@ watch(query, (value) => {
   const trimmed = value.trim();
   if (trimmed) next.q = trimmed;
   else delete next.q;
-  router.replace({ query: next });
+  // Anchor to the showcase: first keystroke scrolls here; subsequent ones share the hash
+  // so scrollBehavior leaves the page where it is.
+  router.replace({ query: next, hash: '#applets' });
 });
 const tabsEl = ref<HTMLElement | null>(null);
 const indicator = ref({ left: 0, width: 0 });

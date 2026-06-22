@@ -11,7 +11,9 @@ export const router = createRouter({
     { path: '/privacy', name: 'privacy', component: Privacy },
     { path: '/terms', name: 'terms', component: Terms }
   ],
-  scrollBehavior(to) {
+  scrollBehavior(to, from) {
+    // Same-page query/replace navigations (e.g. search ?q= sync) keep current scroll.
+    if (to.path === from.path && to.hash === from.hash) return false;
     if (to.hash) return { el: to.hash, behavior: 'smooth' };
     return { top: 0 };
   }
