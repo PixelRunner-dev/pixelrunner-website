@@ -1064,5 +1064,17 @@
     "isOfficialApplet": false,
     "packageName": "solaredgemonitor",
     "fileName": "solaredge_monitor"
+  },
+  {
+    "name": "Noderunners Games",
+    "summary": "Leaderboard and jackpot of games",
+    "desc": "Shows the leaderboard and jackpot per game at Noderunners Games. The jackpot is the amount in sats.",
+    "author": "PMK (@pmk)",
+    "tags": [
+      "gaming"
+    ],
+    "isOfficialApplet": true,
+    "packageName": "noderunnersgames",
+    "fileName": "noderunners_games"
   }
 ]
