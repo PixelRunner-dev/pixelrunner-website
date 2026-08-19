@@ -25,26 +25,28 @@ function show(el: HTMLElement, opts: RevealOptions = {}) {
       child.style.opacity = '0';
       child.style.willChange = 'opacity, transform';
     }
-    motion(Array.from(el.children) as HTMLElement[], {
+    const params: Parameters<typeof motion>[1] = {
       opacity: [0, 1],
       translateY: [y, 0],
-      scale: scale === undefined ? undefined : [scale, 1],
       delay: ((_t: HTMLElement, i: number) => delay + i * gap) as unknown as number,
       duration: 850,
       easing: 'cubicBezier(.2,.7,.2,1)'
-    });
+    };
+    if (scale !== undefined) params.scale = [scale, 1];
+    motion(Array.from(el.children) as HTMLElement[], params);
     el.style.opacity = '1'; // container already visible
     return;
   }
 
-  motion(el, {
+  const params: Parameters<typeof motion>[1] = {
     opacity: [0, 1],
     translateY: [y, 0],
-    scale: scale === undefined ? undefined : [scale, 1],
     delay,
     duration: 900,
     easing: 'cubicBezier(.2,.7,.2,1)'
-  }) ?? (el.style.opacity = '1');
+  };
+  if (scale !== undefined) params.scale = [scale, 1];
+  motion(el, params) ?? (el.style.opacity = '1');
 }
 
 export const reveal: Directive<HTMLElement, RevealOptions | undefined> = {
